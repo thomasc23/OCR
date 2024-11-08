@@ -4,6 +4,7 @@ venv/
 
 # Ignore raw data files
 data/raw/*
+data/processed/*
 
 # Ignore other common Python files
 __pycache__/
