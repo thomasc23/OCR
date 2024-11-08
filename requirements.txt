@@ -1,0 +1,20 @@
+# OCR and Image Processing
+python-doctr[torch]  # Or python-doctr[tensorflow] depending on your preference
+opencv-python        # For image manipulation and preprocessing
+Pillow               # For handling image file formats
+
+# Data Handling and Analysis
+pandas               # For structured data handling
+numpy                # For numerical operations
+
+# Visualization
+matplotlib           # For visualizing OCR outputs and table structures
+
+# Jupyter Notebook Support
+jupyterlab           # For running notebooks
+
+# Testing
+pytest               # For writing and running tests
+
+# Environment Management (optional, for development)
+ipython              # Enhanced Python shell
