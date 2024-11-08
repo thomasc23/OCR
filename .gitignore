@@ -1,2 +1,11 @@
-# Ignore all files in data/raw
+# Ignore virtual environments
+ocr_env/
+venv/
+
+# Ignore raw data files
 data/raw/*
+
+# Ignore other common Python files
+__pycache__/
+*.py[cod]
+*.pyo
