@@ -1,5 +1,6 @@
 # OCR
 
+```
 my-ocr-project/
 ├── data/
 │   ├── raw/                # Store original images/PDFs (historical documents) here
@@ -15,3 +16,4 @@ my-ocr-project/
 ├── requirements.txt        # Dependencies for the project (e.g., `pytesseract`, `opencv-python`)
 ├── README.md               # Project overview and instructions for use
 └── .gitignore              # Files to ignore in version control (e.g., data/raw/*, *.pdf)
+```
