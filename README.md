@@ -1,11 +1,11 @@
 # OCR
 
 ```
-my-ocr-project/
+OCR/
 ├── data/
-│   ├── raw/                # Store original images/PDFs (historical documents) here
-│   ├── processed/          # Save processed images or intermediate files, if needed
-│   └── output/             # Store the final OCR-processed data (e.g., CSV files)
+│   ├── raw/                # Original images/PDFs (historical documents) 
+│   ├── processed/          # Processed images or intermediate files
+│   └── output/             # Final OCR-processed data (e.g., CSV files)
 ├── scripts/
 │   ├── ocr_main.py         # Main script for running OCR on documents
 │   ├── preprocess.py       # Scripts for pre-processing images (e.g., resizing, thresholding)
