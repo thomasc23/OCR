@@ -9,6 +9,7 @@ numpy                # For numerical operations
 
 # Visualization
 matplotlib           # For visualizing OCR outputs and table structures
+mplcursors
 
 # Jupyter Notebook Support
 jupyterlab           # For running notebooks
