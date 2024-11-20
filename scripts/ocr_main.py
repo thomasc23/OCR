@@ -13,13 +13,16 @@ from postprocess import save_to_csv
 from doctr.io import DocumentFile
 from doctr.models import ocr_predictor
 
-def main(input_path, output_csv):
+def main(input_path, output_csv, max_pages=None):
     # Load the document (PDF with multiple pages)
     doc = DocumentFile.from_pdf(input_path)
     
     # Preprocess each page and store processed images
     processed_pages = []
     for page_num, page in enumerate(doc):
+        # For testing with single page
+        if max_pages and page_num >= max_pages:
+            break
         processed_img = preprocess_document(page, page_num)
         processed_pages.append(processed_img)
     
