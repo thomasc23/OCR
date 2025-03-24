@@ -1,0 +1,2 @@
+file,valid,issues,warnings,row_count
+data/output/ocr_results.csv,False,"[""Error processing file: 'float' object has no attribute 'lower'""]","[""Column 'Where born' has 4 empty values"", ""Column 'Whence appointed' has 17 empty values"", ""Column 'Post-office' has 11 empty values"", ""Column 'Compensation per annum' has 9 empty values"", '2 rows have suspicious compensation values', ""Examples of suspicious values: [':e', ':']""]",59

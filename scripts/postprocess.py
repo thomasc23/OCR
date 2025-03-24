@@ -1,5 +1,3 @@
-# scripts/postprocess.py
-
 import pandas as pd
 import re
 import logging
@@ -22,6 +20,21 @@ def save_to_csv(table_data, output_csv):
     # Create DataFrame
     df = pd.DataFrame(table_data)
     
+    # Clean up each column
+    for col in df.columns:
+        # Convert all values to string
+        df[col] = df[col].astype(str)
+        
+        # Replace 'nan' with empty string
+        df[col] = df[col].replace('nan', '')
+        
+        # Remove leading/trailing spaces
+        df[col] = df[col].str.strip()
+        
+        # Clean up common OCR errors - replace common patterns
+        df[col] = df[col].str.replace(r'[,;:"\']', '', regex=True)  # Remove punctuation
+        df[col] = df[col].str.replace(r'\s+', ' ', regex=True)      # Normalize whitespace
+        
     # Clean up monetary values in the compensation column
     if "Compensation per annum" in df.columns:
         df["Compensation per annum"] = df["Compensation per annum"].apply(clean_compensation)
@@ -29,6 +42,15 @@ def save_to_csv(table_data, output_csv):
     # Clean up state names
     if "State" in df.columns:
         df["State"] = df["State"].apply(lambda x: x.strip() if isinstance(x, str) else x)
+    
+    # Filter out rows where Name contains header text
+    if "Name" in df.columns:
+        df = df[~df["Name"].str.contains("CLERK|POST|OFFICE", case=False, regex=True)]
+    
+    # Additional clean-up: Remove rows where all values except State are empty
+    non_state_cols = [col for col in df.columns if col != "State"]
+    if non_state_cols:
+        df = df[df[non_state_cols].replace('', pd.NA).notna().any(axis=1)]
     
     # Save to CSV
     df.to_csv(output_csv, index=False)
@@ -107,58 +129,3 @@ def merge_csv_files(input_files, output_file):
     # Save merged data
     merged_df.to_csv(output_file, index=False)
     logger.info(f"Merged {len(merged_df)} rows into {output_file}")
-
-# import pandas as pd
-
-# def save_to_csv(ocr_result, output_csv):
-#     data = []
-    
-#     # Iterate over pages
-#     for page_num, page in enumerate(ocr_result.pages):
-#         for block in page.blocks:
-#             for line in block.lines:
-#                 # Combine all word values in the line into one string.
-#                 line_text = " ".join(word.value for word in line.words)
-                
-#                 # Optionally, compute the average confidence for the line.
-#                 if line.words:
-#                     line_confidence = sum(word.confidence for word in line.words) / len(line.words)
-#                 else:
-#                     line_confidence = 0
-
-#                 data.append({
-#                     'page_num': page_num + 1,
-#                     'text': line_text,
-#                     'confidence': line_confidence
-#                 })
-    
-#     # Create DataFrame and save to CSV
-#     df = pd.DataFrame(data)
-#     df.to_csv(output_csv, index=False)
-
-# def save_to_csv(ocr_result, output_csv):
-#     """
-#     Extracts text data from OCR result and saves it to a CSV file.
-
-#     Args:
-#         ocr_result: The result object from the OCR model.
-#         output_csv: Path to the output CSV file.
-#     """
-#     data = []
-    
-#     # Iterate over pages
-#     for page_num, page in enumerate(ocr_result.pages):
-#         for block in page.blocks:
-#             for line in block.lines:
-#                 for word in line.words:
-#                     data.append({
-#                         'page_num': page_num + 1,
-#                         'text': word.value,
-#                         'confidence': word.confidence
-#                     })
-    
-#     # Create DataFrame
-#     df = pd.DataFrame(data)
-    
-#     # Save to CSV
-#     df.to_csv(output_csv, index=False)

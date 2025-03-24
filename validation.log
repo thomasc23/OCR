@@ -1,0 +1,13 @@
+2025-03-24 09:40:14,961 - __main__ - INFO - Validating 1 CSV files
+2025-03-24 09:40:14,961 - __main__ - INFO - Validating data/output/ocr_results.csv
+2025-03-24 09:40:14,964 - __main__ - ERROR - Validation error for data/output/ocr_results.csv: 'float' object has no attribute 'lower'
+Traceback (most recent call last):
+  File "/Users/thomaschamberlain/Projects/OCR/scripts/validation.py", line 90, in validate_csv_file
+    if born != "do" and state and born and state.lower() != born.lower():
+                                                            ^^^^^^^^^^
+AttributeError: 'float' object has no attribute 'lower'
+2025-03-24 09:40:14,965 - __main__ - INFO - Validation report saved to validation_report.csv
+2025-03-24 09:40:14,965 - __main__ - INFO - Validation complete: 0/1 files valid
+2025-03-24 09:40:14,965 - __main__ - INFO - Total rows: 59
+2025-03-24 09:40:14,965 - __main__ - WARNING - 1 files have validation issues:
+2025-03-24 09:40:14,965 - __main__ - WARNING -   data/output/ocr_results.csv: Error processing file: 'float' object has no attribute 'lower'

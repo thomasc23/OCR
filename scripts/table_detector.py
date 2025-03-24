@@ -1,4 +1,5 @@
 import logging
+import re
 from typing import List, Dict, Tuple, Optional
 
 # Configure logging
@@ -63,16 +64,38 @@ def detect_table_structure(ocr_result, page_num):
     current_state = None
     last_values = {col: "" for col in column_names}
     
+    # Filter out header lines by checking for keywords
+    header_keywords = ["CLERKS IN POST", "POST-OFFICE", "POSTAL SERVICE", "Name", "Where born", "Whence"]
+    
     for line_idx, line in enumerate(lines):
-        # Skip header lines and empty lines
-        if line_idx < 5 or "CLERKS IN POST-OFFICES" in line["text"].upper():
+        # Skip header lines by checking keywords
+        skip_line = False
+        for keyword in header_keywords:
+            if keyword.upper() in line["text"].upper():
+                skip_line = True
+                break
+                
+        if skip_line:
             continue
             
         # Check if this is a state heading (e.g., "Alabama." or "Arizona.")
-        if line["x"] < 0.3 and line["text"].endswith(".") and len(line["text"].split()) <= 2:
-            current_state = line["text"].rstrip(".")
-            logger.info(f"Detected state heading: {current_state}")
-            continue
+        if line["x"] < 0.3 and "." in line["text"] and len(line["text"].split()) <= 2:
+            # Try to extract a clean state name
+            state_candidate = line["text"].strip().rstrip(".")
+            
+            # List of known states to validate against
+            known_states = ["Alabama", "Arizona", "Arkansas", "California", "Colorado",
+                           "Connecticut", "Dakota", "Delaware", "Florida", "Georgia"]
+            
+            # Check if it's a valid state or close to one
+            for state in known_states:
+                if state.lower() in state_candidate.lower():
+                    current_state = state
+                    logger.info(f"Detected state heading: {current_state}")
+                    break
+            
+            if current_state:
+                continue
             
         # Try to categorize this line into columns based on x-position
         col_idx = None
@@ -84,13 +107,27 @@ def detect_table_structure(ocr_result, page_num):
         if col_idx is None:
             continue
             
+        # Clean up the text - remove punctuation and other common OCR artifacts
+        clean_text = line["text"].strip()
+        clean_text = clean_text.replace(".,", "")
+        clean_text = clean_text.replace(",", "")
+        clean_text = clean_text.replace(":", "")
+        clean_text = clean_text.replace(";", "")
+        clean_text = clean_text.replace("\"", "")
+        clean_text = clean_text.replace("'", "")
+        clean_text = clean_text.replace("-", "")
+        
+        # If text starts with digits followed by period, it might be an index - remove it
+        if re.match(r'^\d+\.', clean_text):
+            clean_text = re.sub(r'^\d+\.', '', clean_text).strip()
+        
         # If this is the first column, start a new row
         if col_idx == 0:
             row = {col: "" for col in column_names}
-            row[column_names[col_idx]] = line["text"]
+            row[column_names[col_idx]] = clean_text
             table_data.append(row)
         elif table_data:  # Add to current row
-            table_data[-1][column_names[col_idx]] = line["text"]
+            table_data[-1][column_names[col_idx]] = clean_text
     
     # Post-process: Replace "do" indicators and add state context
     processed_data = []

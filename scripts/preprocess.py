@@ -38,12 +38,21 @@ def preprocess_document(page_image, page_num):
     # Convert to grayscale
     img_gray = cv2.cvtColor(page_image, cv2.COLOR_RGB2GRAY)
     
-    # Apply adaptive thresholding - better for historical documents with uneven illumination
+    # Apply image enhancements specifically for historical documents
+    
+    # Step 1: Increase contrast using CLAHE (Contrast Limited Adaptive Histogram Equalization)
+    clahe = cv2.createCLAHE(clipLimit=2.0, tileGridSize=(8,8))
+    img_gray = clahe.apply(img_gray)
+    
+    # Step 2: Denoise the image
+    img_gray = cv2.fastNlMeansDenoising(img_gray, None, 10, 7, 21)
+    
+    # Step 3: Apply adaptive thresholding - better for historical documents with uneven illumination
     binary_img = cv2.adaptiveThreshold(
-        img_gray, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, cv2.THRESH_BINARY, 11, 2
+        img_gray, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, cv2.THRESH_BINARY, 15, 8
     )
     
-    # Noise removal - helps with old documents
+    # Step 4: Noise removal and connect broken characters
     kernel = np.ones((1, 1), np.uint8)
     binary_img = cv2.morphologyEx(binary_img, cv2.MORPH_CLOSE, kernel)
     
@@ -91,50 +100,3 @@ def deskew_image(image):
     rotated = cv2.warpAffine(image, M, (w, h), flags=cv2.INTER_CUBIC, borderMode=cv2.BORDER_REPLICATE)
     
     return rotated
-
-# import cv2
-# import numpy as np
-# import os
-# from pathlib import Path
-
-# def preprocess_document(page_image, page_num):
-#     """
-#     Preprocess the page image.
-
-#     Args:
-#         page_image: PIL Image or NumPy array representing the page.
-#         page_num: The page number (used for saving if needed).
-
-#     Returns:
-#         Preprocessed image ready for OCR.
-#     """
-#     # Convert PIL Image to NumPy array if necessary
-#     if not isinstance(page_image, (np.ndarray, np.generic)):
-#         page_image = np.array(page_image)
-    
-#     # Handle different image modes
-#     if page_image.ndim == 2:  # Grayscale image
-#         # Convert grayscale to RGB
-#         page_image = cv2.cvtColor(page_image, cv2.COLOR_GRAY2RGB)
-#     elif page_image.shape[2] == 4:  # RGBA image
-#         # Convert RGBA to RGB
-#         page_image = cv2.cvtColor(page_image, cv2.COLOR_RGBA2RGB)
-#     elif page_image.shape[2] == 3:
-#         # Image is already RGB
-#         pass
-#     else:
-#         raise ValueError(f"Unexpected image shape: {page_image.shape}")
-
-#     # Apply original preprocessing (if any)
-#     # For example, converting to grayscale and thresholding
-#     img_gray = cv2.cvtColor(page_image, cv2.COLOR_RGB2GRAY)
-#     _, binary_img = cv2.threshold(img_gray, 128, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)
-
-#     # Convert back to RGB
-#     processed_img = cv2.cvtColor(binary_img, cv2.COLOR_GRAY2RGB)
-    
-#     # Optional: Save the processed image (commented out, can be enabled for debugging)
-#     # processed_img_path = Path('../data/processed') / f'processed_page_{page_num}.png'
-#     # cv2.imwrite(str(processed_img_path), binary_img)
-    
-#     return processed_img
