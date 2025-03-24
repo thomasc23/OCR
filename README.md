@@ -3,17 +3,20 @@
 ```
 OCR/
 ├── data/
-│   ├── raw/                # Original images/PDFs (historical documents) 
-│   ├── processed/          # Processed images or intermediate files
-│   └── output/             # Final OCR-processed data (e.g., CSV files)
+│   ├── raw/            # Original PDFs of historical documents
+│   ├── processed/      # Processed images (for debugging)
+│   └── output/         # Final CSV output files
 ├── scripts/
-│   ├── ocr_main.py         # Main script for running OCR on documents
-│   ├── preprocess.py       # Scripts for pre-processing images (e.g., resizing, thresholding)
-│   ├── postprocess.py      # Post-processing scripts (e.g., formatting output for CSV)
-│   └── utils.py            # Utility functions used across the project
-├── notebooks/              # Jupyter notebooks for experimenting and testing OCR on documents
-├── tests/                  # Unit tests for OCR functions and other scripts
-├── requirements.txt        # Dependencies for the project (e.g., `pytesseract`, `opencv-python`)
-├── README.md               # Project overview and instructions for use
-└── .gitignore              # Files to ignore in version control (e.g., data/raw/*, *.pdf)
+│   ├── ocr_main.py     # Main script for running OCR on single documents
+│   ├── preprocess.py   # Image preprocessing functions
+│   ├── table_detector.py  # Table structure detection
+│   ├── postprocess.py  # Post-processing and CSV formatting
+│   ├── batch_processor.py # Batch processing for multiple documents
+│   ├── validation.py   # Data validation tools
+│   ├── config.py       # Configuration settings
+│   └── utils.py        # Utility functions
+├── notebooks/          # Jupyter notebooks for testing and analysis
+├── tests/              # Unit tests
+├── requirements.txt    # Dependencies
+└── README.md           # This file
 ```
