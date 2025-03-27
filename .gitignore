@@ -2,6 +2,10 @@
 ocr_env/
 venv/
 
+# Ignore environment files
+.env
+*.env
+
 # Ignore raw data files
 data/raw/*
 data/processed/*
