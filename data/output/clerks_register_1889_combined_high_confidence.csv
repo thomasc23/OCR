@@ -1,0 +1,723 @@
+Name,Where born,Whence appointed,Post-office,Compensation per annum,State,Postmaster,salary_clean,extraction_confidence
+Edward M. Farrell,California,California,Marysville,,California,0,,1.0
+Charles H. Eastman,do,do,do,$150.00,California,0,150,1.0
+L. A. Morgan,Connecticut,do,Mendocino,$150.00,California,0,150,1.0
+F. F. Carnduff,New York,do,do,$150.00,California,0,150,1.0
+Samuel P. Wells,California,do,Mulholland Hill,$300.00,California,0,300,1.0
+Miss M. Sophia Miller,New Hampshire,do,Napa City,$840.00,California,0,840,1.0
+John E. O'Neill,Connecticut,do,do,$410.00,California,0,410,1.0
+Harry G. Young,Illinois,do,do,$120.00,California,0,120,1.0
+Miss Fannie M. Fannon,California,do,Novato,$60.00,California,0,60,1.0
+Miss Nellie O'Donnell,do,do,Nevada City,$420.00,California,0,420,1.0
+Isham H. Clay,Mississippi,do,Oakland,$1400.00,California,0,1400,1.0
+Walter P. Stevens,California,do,do,$1190.00,California,0,1190,1.0
+James H. Russell,do,do,do,$850.00,California,0,850,1.0
+Miss Mary E. Shepherd,do,do,do,$850.00,California,0,850,1.0
+Miss Grace L. Lathrop,do,do,do,$850.00,California,0,850,1.0
+Miss Bessie Goodfellow,do,do,do,$600.00,California,0,600,1.0
+Fisher C. Worley,do,do,do,$900.00,California,0,900,1.0
+Henry A. Joseph,do,do,do,$850.00,California,0,850,1.0
+Alfred A. Stephens,do,do,do,$900.00,California,0,900,1.0
+Alfred Foster,Indiana,do,do,$280.00,California,0,280,1.0
+C. H. Hudson,Tennessee,do,do,$885.00,California,0,885,1.0
+R. B. Miller,California,do,do,$310.00,California,0,310,1.0
+Thomas Stevens,do,do,do,$310.00,California,0,310,1.0
+Miss Lillie Loughlin,Iowa,do,Oceanside,$250.00,California,0,250,1.0
+Elmer W. Dean,Wisconsin,do,Orange,$700.00,California,0,700,1.0
+Miss Gertrude La Page,Iowa,do,Oroville,$500.00,California,0,500,1.0
+T. F. Sull,,,do,Pasadena,$1300.00,"California,0",Pasadena,1.0
+C. B. Smith,,,do,do,$800.00,"California,0",do,1.0
+M. Adair Winans,,,do,do,$800.00,"California,0",do,1.0
+Frank C. Monroe,,,do,do,$700.00,"California,0",do,1.0
+Amanda Juers,,,do,do,$700.00,"California,0",do,1.0
+George W. Shroff,,,do,do,$800.00,"California,0",do,1.0
+Charles A. Swisler,,,do,do,$900.00,"California,0",do,1.0
+Mrs. Lula Hall,California,do,Petaluma,$800.00,California,0,800,1.0
+George Holmeister,do,do,Placerville,$600.00,California,0,600,1.0
+Peter M. Ruth,Minnesota,do,Pomona,$900.00,California,0,900,1.0
+Bert M. Shatt,Indiana,do,do,$600.00,California,0,600,1.0
+T. C. Lee,California,do,Colley,$400.00,California,0,400,1.0
+William T. Lewis,do,do,Red Bluff,$900.00,California,0,900,1.0
+Henry Clements,England,do,do,$840.00,California,0,840,1.0
+Mrs. P. S. Woodson,California,do,do,$180.00,California,0,180,1.0
+Edward Major,do,do,Redding,$600.00,California,0,600,1.0
+James F. Coffey,do,do,Riverside,$700.00,California,0,700,1.0
+Charles R. Stibbers,Indiana,do,do,$600.00,California,0,600,1.0
+Mrs. Julia Raymer,do,do,do,$500.00,California,0,500,1.0
+John S. C. Higgins,Massachusetts,do,Sacramento,$924.00,California,0,924,1.0
+Samuel M. Kiefer,Maryland,do,do,$1468.80,California,0,1468,1.0
+William H. Haywood,California,do,do,$720.00,California,0,720,1.0
+William N. Leake,Missouri,do,do,$1698.00,California,0,1698,1.0
+James Longshore Jr.,California,do,do,$810.00,California,0,810,1.0
+Charles A. Sage,do,do,do,$900.00,California,0,900,1.0
+William Rider,do,do,do,$1361.40,California,0,1361,1.0
+John E. Tade,Nevada,do,do,$927.20,California,0,927,1.0
+Walter F. Prouty,California,do,do,$760.00,California,0,760,1.0
+Leonard B. Van Den Burgh,New York,do,do,$1156.60,California,0,1156,1.0
+Mrs. Alice Lander,California,do,do,$700.00,California,0,700,1.0
+Mrs. Lucy A. Allen,New Hampshire,do,San Andreas,$300.00,California,0,300,1.0
+Cyrus L. Gates,Vermont,do,San Bernardino,$800.00,California,0,800,1.0
+Percy W. Gaines,Iowa,do,do,$600.00,California,0,600,1.0
+Miss Annie G. Buford,Tennessee,do,do,$600.00,California,0,600,1.0
+Miss Ella Ames,California,do,do,$400.00,California,0,400,1.0
+Leroy W. Allum,Pennsylvania,do,San Diego,$1000.00,California,0,1000,1.0
+Marian M. Suckley,do,do,do,$520.00,California,0,520,1.0
+Wade L. Cushing,Kentucky,do,do,$850.00,California,0,850,1.0
+Albert S. Hampton,Illinois,do,do,$580.00,California,0,580,1.0
+Miss Della Hammack,do,do,do,$500.00,California,0,500,1.0
+Miss Lillian M. Elliott,Michigan,do,do,$500.00,California,0,500,1.0
+Mrs. Edith C. Husted,Mississippi,do,do,$500.00,California,0,500,1.0
+Miss Nita Mollinet,Virginia,do,do,$500.00,California,0,500,1.0
+Miss Ida Weck,California,do,do,$700.00,California,0,700,1.0
+Miss Jesse A. Ware,do,do,do,$600.00,California,0,600,1.0
+Arthur L. Adams,Vermont,do,San Francisco,$1100.00,California,0,1100,1.0
+William Adams,Pennsylvania,do,do,$700.00,California,0,700,1.0
+James G. Ahern,Massachusetts,do,do,$700.00,California,0,700,1.0
+Mrs. Sarah M. Allen,do,do,do,$1000.00,California,0,1000,1.0
+Charles F. Ammerman,California,do,do,$1500.00,California,0,1500,1.0
+George Ashton,Georgia,do,do,$1400.00,California,0,1400,1.0
+Chas. S. Arms,Massachusetts,do,do,$1400.00,California,0,1400,1.0
+Josiah A. Baldwin,do,do,do,$1500.00,California,0,1500,1.0
+William T. Barnes,California,do,do,$1400.00,California,0,1400,1.0
+Arthur J. Bolling,do,do,do,$1000.00,California,0,1000,1.0
+Edwin H. Booth,Connecticut,do,do,$1400.00,California,0,1400,1.0
+Hugh J. Brady,New York,do,do,$1000.00,California,0,1000,1.0
+Frank P. Breed,do,do,do,$1400.00,California,0,1400,1.0
+Henry M. Britton,Maryland,do,do,$1400.00,California,0,1400,1.0
+Mrs. Margaret L. Bunker,California,do,do,$1000.00,California,0,1000,1.0
+Joseph W. Burton,Michigan,do,do,$1700.00,California,0,1700,1.0
+John S. Carr,Tennessee,do,do,$2000.00,California,0,2000,1.0
+John Crowley,Ireland,do,do,$1700.00,California,0,1700,1.0
+William A. Coulter,California,do,do,$1400.00,California,0,1400,1.0
+Dennis Coyne,Ireland,do,do,$1500.00,California,0,1500,1.0
+Alexander M. Cox,Virginia,do,do,$1400.00,California,0,1400,1.0
+Carrie Scoville,Illinois,Illinois,Kankakee,$300.00,Illinois,0,300.0,1.0
+Burga Bloom,do,do,do,$300.00,Illinois,0,300.0,1.0
+E. M. Tallman,do,do,Lanark,$100.00,Illinois,0,100.0,1.0
+Daniel A. Leahy,do,do,La Salle,$500.00,Illinois,0,500.0,1.0
+Louis Dornblaser,do,do,do,$600.00,Illinois,0,600.0,1.0
+Miss J. Sarwinski,Poland,do,do,$150.00,Illinois,0,150.0,1.0
+Miss Inez Barley,Illinois,do,Le Roy,$100.00,Illinois,0,100.0,1.0
+Miss M. E. Meesley,do,do,Lewiston,$75.00,Illinois,0,75.0,1.0
+Miss A. E. Dyckes,do,do,do,$75.00,Illinois,0,75.0,1.0
+Charles W. Small,do,do,Lincoln,$600.00,Illinois,0,600.0,1.0
+William E. Lynch,do,do,do,$500.00,Illinois,0,500.0,1.0
+Miss Kate Brittain,do,do,do,$100.00,Illinois,0,100.0,1.0
+Rosella Hoover,Ohio,do,Litchfield,$300.00,Illinois,0,300.0,1.0
+G. W. David,Illinois,do,Louisville,$75.00,Illinois,0,75.0,1.0
+William T. Jones,do,do,Macomb,$100.00,Illinois,0,100.0,1.0
+Willis H. Hendrickson,do,do,Marion,$100.00,Illinois,0,100.0,1.0
+W. J. Martin,do,do,Marshall,$165.00,Illinois,0,165.0,1.0
+T. F. Shugart,Indiana,do,do,$175.00,Illinois,0,175.0,1.0
+Mrs. Lucretia Weaver,Ohio,do,do,$450.00,Illinois,0,450.0,1.0
+F. T. Clark,Indiana,do,do,$300.00,Illinois,0,300.0,1.0
+Miss Emilie Beal,Ohio,do,do,$300.00,Illinois,0,300.0,1.0
+Peter Koerfer,Germany,do,Mendota,$300.00,Illinois,0,300.0,1.0
+Samuel M. Stewart,Illinois,do,Metropolis City,$200.00,Illinois,0,200.0,1.0
+Willis Golden,do,do,Minonk,$100.00,Illinois,0,100.0,1.0
+Adam Dahlem,do,do,Minooka,$80.00,Illinois,0,80.0,1.0
+Charles F. Johnson,Sweden,do,Moline,$500.00,Illinois,0,500.0,1.0
+Lora A. Gould,Illinois,do,do,$600.00,Illinois,0,600.0,1.0
+Mabel C. Woodworth,do,do,do,$400.00,Illinois,0,400.0,1.0
+Charles V. Gould,do,do,do,$250.00,Illinois,0,250.0,1.0
+Charles M. Johnston,Pennsylvania,do,Monmouth,$700.00,Illinois,0,700.0,1.0
+William H. Houlton,Illinois,do,do,$500.00,Illinois,0,500.0,1.0
+Mrs. May Slocum,do,do,do,$250.00,Illinois,0,250.0,1.0
+Frank Brady,do,do,Monticello,$100.00,Illinois,0,100.0,1.0
+Miss Mary L. Allen,New York,do,Morrison,$300.00,Illinois,0,300.0,1.0
+Luse W. Leasure,Illinois,do,Mount Carmel,$100.00,Illinois,0,100.0,1.0
+Jacob W. Tanner,Pennsylvania,do,Mount Carroll,$200.00,Illinois,0,200.0,1.0
+Mrs. Lucy R. McMullen,Illinois,do,Mount Sterling,$100.00,Illinois,0,100.0,1.0
+Gussie Pace,do,do,Mount Vernon,$300.00,Illinois,0,300.0,1.0
+Thomas Carpenter,do,do,Murphysborough,$200.00,Illinois,0,200.0,1.0
+Winfield D. Schmidt,Ohio,do,Nashville,$200.00,Illinois,0,200.0,1.0
+Samuel Bucknell,New Jersey,do,National Stock Yards,$500.00,Illinois,0,500.0,1.0
+Joseph D. Merrill,Missouri,do,do,$300.00,Illinois,0,300.0,1.0
+Miss Carrie Hancock,Illinois,do,Neoga,$100.00,Illinois,0,100.0,1.0
+E. S. Woodard,do,do,Nokomis,$75.00,Illinois,0,75.0,1.0
+Lester Waddle,do,do,Normal,$300.00,Illinois,0,300.0,1.0
+E. Louise Pebbles,do,do,Oak Park,$600.00,Illinois,0,600.0,1.0
+Charles A. Sharenburg,do,do,do,$600.00,Illinois,0,600.0,1.0
+Charles Jones,do,do,do,$300.00,Illinois,0,300.0,1.0
+Miss Jennie Somerville,West Virginia,do,Olney,$150.00,Illinois,0,150.0,1.0
+Fred. Allen,Illinois,do,Olney,$250.00,Illinois,0,250.0,1.0
+Mrs. Kate Bunker,New Hampshire,do,Oregon,$150.00,Illinois,0,150.0,1.0
+William F. Owens,Illinois,do,Ottawa,$1,620.00,"Illinois,0",1.0,1.0
+Robert C. McManus,do,do,do,$480.00,Illinois,0,480.0,1.0
+Miss Mary E. Sinnott,do,do,do,$301.00,Illinois,0,301.0,1.0
+Will W. Newcomb,do,do,Pana,$250.00,Illinois,0,250.0,1.0
+George Y. Hurst,Missouri,do,Paris,$200.00,Illinois,0,200.0,1.0
+Howard Gaines,Illinois,do,do,$200.00,Illinois,0,200.0,1.0
+J. W. Terpening,do,do,Pekin,$300.00,Illinois,0,300.0,1.0
+Frank J. Morgan,do,do,do,$400.00,Illinois,0,400.0,1.0
+Robert M. Campbell,Pennsylvania,do,Peoria,$1,400.00,"Illinois,0",1.0,1.0
+D. J. Forbes,Illinois,do,do,$1,000.00,"Illinois,0",1.0,1.0
+Thomas A. Moran,do,do,do,$1,100.00,"Illinois,0",1.0,1.0
+James S. Stacy,do,do,do,$800.00,Illinois,0,800.0,1.0
+John O. Regan,do,do,do,$1,100.00,"Illinois,0",1.0,1.0
+Harry Murphy,Indiana,do,do,$600.00,Illinois,0,600.0,1.0
+Daniel Cunningham,Illinois,do,do,$600.00,Illinois,0,600.0,1.0
+J. Irving Pearce,Ohio,do,do,$600.00,Illinois,0,600.0,1.0
+Rufus E. Hodges Jr,Illinois,do,do,$600.00,Illinois,0,600.0,1.0
+Parker P. Lewis,do,do,do,$600.00,Illinois,0,600.0,1.0
+Paul M. Howell,do,do,do,$600.00,Illinois,0,600.0,1.0
+Frank H. Harkness,do,do,do,$400.00,Illinois,0,400.0,1.0
+Mrs. Jennie F. Parks,do,do,Petersburg,$300.00,Illinois,0,300.0,1.0
+William S. Binns,do,do,Pittsfield,$400.00,Illinois,0,400.0,1.0
+Charles F. Williford,do,do,Pleasant Hill,$75.00,Illinois,0,75.0,1.0
+Miss Corda Allard,do,do,Plymouth,$75.00,Illinois,0,75.0,1.0
+R. D. McCoy,Virginia,do,Polo,$200.00,Illinois,0,200.0,1.0
+Joseph W. Thornton,Illinois,do,Pontiac,$100.00,Illinois,0,100.0,1.0
+J. O. Braker,do,do,Princeton,$300.00,Illinois,0,300.0,1.0
+Miss Kate M. Tobin,Massachusetts,do,Pullman,,Illinois,0,,1.0
+Miss Kittie M. Day,Indiana,do,do,,Illinois,0,,1.0
+John Y. Henry,New York,do,Quincy,$1,400.00,"Illinois,0",1.0,1.0
+John L. Schrage,Missouri,do,do,$1,000.00,"Illinois,0",1.0,1.0
+Daniel B. Kingsbury,Illinois,do,do,$900.00,Illinois,0,900.0,1.0
+Elmer Frank,Germany,do,do,$800.00,Illinois,0,800.0,1.0
+Walter H. Coon,Indiana,do,do,$1,000.00,"Illinois,0",1.0,1.0
+John R. Stewart,Illinois,do,do,$800.00,Illinois,0,800.0,1.0
+John H. Fisher,Germany,do,do,$500.00,Illinois,0,500.0,1.0
+Michael Piggott,Illinois,do,do,$700.00,Illinois,0,700.0,1.0
+Miss Fannie Piggott,do,do,do,$400.00,Illinois,0,400.0,1.0
+Miss Helen T. Myers,do,do,Rantoul,$150.00,Illinois,0,150.0,1.0
+Oscar Thielen,do,do,Red Bud,$80.00,Illinois,0,80.0,1.0
+Augustus M. Brown,New York,Kansas,Smith Centre,$200.00,Kansas,0,200,1.0
+Mrs. M. M. Steele,Missouri,do,Stafford,$100.00,Kansas,0,100,1.0
+Miss Belle R. Seeley,Iowa,do,Sterling,$200.00,Kansas,0,200,1.0
+Miss Mattie Miller,Kansas,do,Stockton,$150.00,Kansas,0,150,1.0
+Mrs. Lillian Johnson,Illinois,do,Syracuse,$150.00,Kansas,0,150,1.0
+H. C. Bowen,Ohio,do,Topeka,$1000.00,Kansas,0,1000,1.0
+H. R. Chamberlain,do,do,do,$900.00,Kansas,0,900,1.0
+W. F. Ellison,do,do,do,$1500.00,Kansas,0,1500,1.0
+Miss Emma A. Gleason,Illinois,do,do,$500.00,Kansas,0,500,1.0
+J. J. Harper,Missouri,do,do,$700.00,Kansas,0,700,1.0
+A. J. Kellam,Vermont,do,do,$800.00,Kansas,0,800,1.0
+C. G. Markham,Illinois,do,do,$1100.00,Kansas,0,1100,1.0
+F. D. Markham,do,do,do,$1200.00,Kansas,0,1200,1.0
+Leroy Powell,Kentucky,do,do,$500.00,Kansas,0,500,1.0
+Sherman Bowles,Ohio,do,do,$700.00,Kansas,0,700,1.0
+Miss Ella Sherman,Kansas,do,do,$600.00,Kansas,0,600,1.0
+Miss Vera Shipley,Massachusetts,do,do,$600.00,Kansas,0,600,1.0
+Theo. A. Wilkie,Indiana,do,do,$800.00,Kansas,0,800,1.0
+W. B. Ware,Kansas,do,do,$500.00,Kansas,0,500,1.0
+Lily M. Marsh,Missouri,do,Valley Falls,$200.00,Kansas,0,200,1.0
+Miss Ida Blackburn,Ohio,do,Wa-Keeney,$300.00,Kansas,0,300,1.0
+Charles A. Swartz,Wisconsin,do,Wallace,$100.00,Kansas,0,100,1.0
+Miss Maggie Collins,Kansas,do,Walnut,$100.00,Kansas,0,100,1.0
+B. N. B. Clay,Maryland,do,Wamego,$100.00,Kansas,0,100,1.0
+Bell R. Hicks,New York,do,Washington,$200.00,Kansas,0,200,1.0
+Fred G. Thomann,Kentucky,do,Wellington,$600.00,Kansas,0,600,1.0
+W. C. Love,Virginia,do,do,$200.00,Kansas,0,200,1.0
+Frank Fisher,,,do,Wichita,$1500.00,"Kansas,0",Wichita,1.0
+Park C. Hays,,,do,do,$800.00,"Kansas,0",do,1.0
+Edmund C. Cummings,,,do,do,$600.00,"Kansas,0",do,1.0
+John W. Belding,,,do,do,$700.00,"Kansas,0",do,1.0
+John Leep,,,do,do,$600.00,"Kansas,0",do,1.0
+Harry T. Bancroft,,,do,do,$800.00,"Kansas,0",do,1.0
+S. H. Tucker,,,do,do,$350.00,"Kansas,0",do,1.0
+E. E. Robinson,,,do,do,$420.00,"Kansas,0",do,1.0
+William G. Hungate,,,do,do,$420.00,"Kansas,0",do,1.0
+William P. Bishop,,,do,do,$420.00,"Kansas,0",do,1.0
+Charles L. Kennedy,,,do,do,$420.00,"Kansas,0",do,1.0
+Philip D. Mansell,,,do,do,$420.00,"Kansas,0",do,1.0
+E. A. Milligan,,,do,do,$480.00,"Kansas,0",do,1.0
+W. J. McClelland,Wisconsin,do,Winfield,$500.00,Kansas,0,500,1.0
+S. Sanderson,Illinois,do,do,$600.00,Kansas,0,600,1.0
+Miss Susie Bryan,Missouri,do,do,$250.00,Kansas,0,250,1.0
+John H. Wharton,Illinois,do,Yates Center,$200.00,Kansas,0,200,1.0
+Eugene L. Ogden,Kansas,Kentucky,Ashland,$200.00,Kentucky,0,200,1.0
+Miss Lizzie B. Hagin,Kentucky,do,Augusta,$100.00,Kentucky,0,100,1.0
+John M. Tinsley,do,do,Barboursville,$100.00,Kentucky,0,100,1.0
+Mark Cann,Wisconsin,do,Beattyville,$100.00,Kentucky,0,100,1.0
+R. W. Blankenby,Kentucky,do,Beaver Dam,$200.00,Kentucky,0,200,1.0
+J. M. Bishop,do,do,Blandville,$100.00,Kentucky,0,100,1.0
+George Bonta,do,do,Bowling Green,$700.00,Kentucky,0,700,1.0
+Charles E. Haber,do,do,do,$300.00,Kentucky,0,300,1.0
+Walter B. Slayer,do,do,do,$200.00,Kentucky,0,200,1.0
+J. Ed. White,do,do,Burkesville,$200.00,Kentucky,0,200,1.0
+Miss Matilda Malone,do,do,Campbellsville,$100.00,Kentucky,0,100,1.0
+Mary Eastham,do,do,Catlettsburg,$150.00,Kentucky,0,150,1.0
+H. M. Garton,do,do,Cadiz,$100.00,Kentucky,0,100,1.0
+Miss Mabel Fowler,Indiana,do,Central City,$100.00,Kentucky,0,100,1.0
+Mona Prewitt,Kentucky,do,Columbia,$250.00,Kentucky,0,250,1.0
+Miss Eva Cook,Alabama,do,Columbus,$150.00,Kentucky,0,150,1.0
+Miss Georgie B. Allen,Ohio,do,Corinth,$70.00,Kentucky,0,70,1.0
+John L. Farber,Kentucky,do,Covington,$1200.00,Kentucky,0,1200,1.0
+Michael J. McNamara,Ohio,do,do,$800.00,Kentucky,0,800,1.0
+John Jameson,Kentucky,do,do,$600.00,Kentucky,0,600,1.0
+Henry T. Hegehold,do,do,do,$600.00,Kentucky,0,600,1.0
+Mrs. A. H. Todd,do,do,Cynthiana,$150.00,Kentucky,0,150,1.0
+R. R. Polk,Wisconsin,do,Danville,$180.00,Kentucky,0,180,1.0
+E. H. McGinnis,Kentucky,do,Elizabethtown,$200.00,Kentucky,0,200,1.0
+S. Helm,do,do,Eminence,$80.00,Kentucky,0,80,1.0
+Ernest Clarke,do,do,Falmouth,$150.00,Kentucky,0,150,1.0
+Mrs. M. E. Harris,do,do,Franklin,$150.00,Kentucky,0,150,1.0
+Thomas J. Ballard,do,do,Frankfort,$800.00,Kentucky,0,800,1.0
+John M. Rodman,do,do,do,$600.00,Kentucky,0,600,1.0
+Hugh B. Rodman,do,do,do,$300.00,Kentucky,0,300,1.0
+James Armitage,do,do,Frenchburgh,$100.00,Kentucky,0,100,1.0
+E. F. Bradner,do,do,Fulton,$100.00,Kentucky,0,100,1.0
+Jas. H. Corbett,do,do,Georgetown,$200.00,Kentucky,0,200,1.0
+Mrs. Emma R. Smith,do,do,Glasgow,$300.00,Kentucky,0,300,1.0
+Miss Mattie Dowdy,do,do,Greensburgh,$76.00,Kentucky,0,76,1.0
+Miss May Norris,do,do,Guthrie,$80.00,Kentucky,0,80,1.0
+R. M. Shaw,do,do,Harlan,$76.00,Kentucky,0,76,1.0
+D. Shackelford,do,do,Harrodsburg,$250.00,Kentucky,0,250,1.0
+Miss Lula Williams,do,do,Hartford,$100.00,Kentucky,0,100,1.0
+W. H. Corbett,do,do,Hazard,$60.00,Kentucky,0,60,1.0
+W. J. Hager,do,do,Hazel Green,$100.00,Kentucky,0,100,1.0
+J. D. Walbridge,do,do,Henderson,$700.00,Kentucky,0,700,1.0
+Owen R. Miller,do,do,do,$300.00,Kentucky,0,300,1.0
+Miss Hattie F. Stephens,Tennessee,do,Hickman,$76.00,Kentucky,0,76,1.0
+J. R. Crain,Kentucky,do,Hillsborough,$76.00,Kentucky,0,76,1.0
+John Pickford,England,do,Hopkinsville,$240.00,Kentucky,0,240,1.0
+Thomas Brasher,Kentucky,Kentucky,Hopkinsville,$160.00,Kentucky,0,160,1.0
+Virgil P. Smith,Kentucky,Kentucky,Irvine,$100.00,Kentucky,0,100,1.0
+L. S. Markham,Kentucky,Kentucky,Lancaster,$100.00,Kentucky,0,100,1.0
+E. P. Brown,Kentucky,Kentucky,Lancaster,$200.00,Kentucky,0,200,1.0
+Horace L. Button,Kentucky,Kentucky,Lawrenceburgh,$200.00,Kentucky,0,200,1.0
+George W. Gaines,Kentucky,Kentucky,Lebanon,$200.00,Kentucky,0,200,1.0
+J. C. McChesney,Kentucky,Kentucky,Lexington,$1100.00,Kentucky,0,1100,1.0
+H. C. Swift,Kentucky,Kentucky,Lexington,$600.00,Kentucky,0,600,1.0
+J. C. Wickliff,Kentucky,Kentucky,Lexington,$600.00,Kentucky,0,600,1.0
+J. T. Brock,Kentucky,Kentucky,Lexington,$600.00,Kentucky,0,600,1.0
+W. G. Trapp,Kentucky,Kentucky,Lexington,$600.00,Kentucky,0,600,1.0
+Mrs. Minerva C. Weaver,Kentucky,Kentucky,London,$180.00,Kentucky,0,180,1.0
+Mrs. Grace McClure,Kentucky,Kentucky,Louisa,$75.00,Kentucky,0,75,1.0
+Charles W. Adams,Kentucky,Kentucky,Louisville,$1400.00,Kentucky,0,1400,1.0
+William E. Bate,Kentucky,Kentucky,Louisville,$1500.00,Kentucky,0,1500,1.0
+Thomas Bohannon,Jr,Kentucky,Kentucky,Louisville,$1100.00,"Kentucky,0",Louisville,1.0
+John W. Baldwin,Kentucky,Kentucky,Louisville,$1000.00,Kentucky,0,1000,1.0
+Addie E. Bonnycastle,Kentucky,Kentucky,Louisville,$800.00,Kentucky,0,800,1.0
+Charles H. Baird,Kentucky,Kentucky,Louisville,$700.00,Kentucky,0,700,1.0
+Henry K. Baird,Kentucky,Kentucky,Louisville,$700.00,Kentucky,0,700,1.0
+Richard J. Beer,Kentucky,Kentucky,Louisville,$700.00,Kentucky,0,700,1.0
+Philip F. Becker,Kentucky,Kentucky,Louisville,$600.00,Kentucky,0,600,1.0
+John W. Branch,Kentucky,Kentucky,Louisville,$500.00,Kentucky,0,500,1.0
+Henry A. Chittenden,Kentucky,Kentucky,Louisville,$1100.00,Kentucky,0,1100,1.0
+John C. Clarp,Kentucky,Kentucky,Louisville,$900.00,Kentucky,0,900,1.0
+Henry Chambers,Jr,Kentucky,Kentucky,Louisville,$700.00,"Kentucky,0",Louisville,1.0
+John W. Cully,Kentucky,Kentucky,Louisville,$800.00,Kentucky,0,800,1.0
+Mary G. Dorsey,Kentucky,Kentucky,Louisville,$800.00,Kentucky,0,800,1.0
+Charles S. Ellison,Kentucky,Kentucky,Louisville,$900.00,Kentucky,0,900,1.0
+Edward French,Kentucky,Kentucky,Louisville,$400.00,Kentucky,0,400,1.0
+George S. Gordon,Kentucky,Kentucky,Louisville,$500.00,Kentucky,0,500,1.0
+Harford R. Hart,Kentucky,Kentucky,Louisville,$800.00,Kentucky,0,800,1.0
+James K. Harris,Kentucky,Kentucky,Louisville,$800.00,Kentucky,0,800,1.0
+Anna L. Hendricks,Kentucky,Kentucky,Louisville,$700.00,Kentucky,0,700,1.0
+Williams S. Helm,Kentucky,Kentucky,Louisville,$600.00,Kentucky,0,600,1.0
+James P. Hawkins,Kentucky,Kentucky,Louisville,$600.00,Kentucky,0,600,1.0
+Theodore Jackson,Kentucky,Kentucky,Louisville,$1500.00,Kentucky,0,1500,1.0
+David H. Jenkins,Kentucky,Kentucky,Louisville,$800.00,Kentucky,0,800,1.0
+George S. Kerr,Illinois,Kentucky,Louisville,$600.00,Kentucky,0,600,1.0
+Frederick Kerner,Germany,Kentucky,Louisville,$700.00,Kentucky,0,700,1.0
+Lizzie B. Link,Tennessee,Kentucky,Louisville,$600.00,Kentucky,0,600,1.0
+Delorier Moxley,Kentucky,Kentucky,Louisville,$1200.00,Kentucky,0,1200,1.0
+Annie F. Monroe,Kentucky,Kentucky,Louisville,$900.00,Kentucky,0,900,1.0
+Patrick H. Musselman,Kentucky,Kentucky,Louisville,$800.00,Kentucky,0,800,1.0
+B. Simms Miller,Kentucky,Kentucky,Louisville,$800.00,Kentucky,0,800,1.0
+John C. Miller,Kentucky,Kentucky,Louisville,$700.00,Kentucky,0,700,1.0
+Thomas J. McKim,Kentucky,Kentucky,Louisville,$700.00,Kentucky,0,700,1.0
+John P. Maury,Kentucky,Kentucky,Louisville,$600.00,Kentucky,0,600,1.0
+Margaret G. Peters,Kentucky,Kentucky,Louisville,$900.00,Kentucky,0,900,1.0
+William A. Pomeroy,Kentucky,Kentucky,Louisville,$1000.00,Kentucky,0,1000,1.0
+Albert Roeder,Kentucky,Kentucky,Louisville,$800.00,Kentucky,0,800,1.0
+J. William Reiling,Kentucky,Kentucky,Louisville,$700.00,Kentucky,0,700,1.0
+William Hite Sheppard,Kentucky,Kentucky,Louisville,$1000.00,Kentucky,0,1000,1.0
+John D. Strasburg,Germany,Kentucky,Louisville,$1000.00,Kentucky,0,1000,1.0
+James A. Steele,Ireland,Kentucky,Louisville,$900.00,Kentucky,0,900,1.0
+Emma G. Strain,Illinois,Kentucky,Louisville,$800.00,Kentucky,0,800,1.0
+William C. Steelman,Kentucky,Kentucky,Louisville,$800.00,Kentucky,0,800,1.0
+William C. Snoddy,Kentucky,Kentucky,Louisville,$800.00,Kentucky,0,800,1.0
+Henry Sutherland,Kentucky,Kentucky,Louisville,$700.00,Kentucky,0,700,1.0
+Pruitt Stewart,Tennessee,Kentucky,Louisville,$500.00,Kentucky,0,500,1.0
+Enos S. Tuley,Indiana,Kentucky,Louisville,$1400.00,Kentucky,0,1400,1.0
+Robert J. Thompson,Kentucky,Kentucky,Louisville,$1100.00,Kentucky,0,1100,1.0
+Anna E. Wight,Kentucky,Kentucky,Louisville,$700.00,Kentucky,0,700,1.0
+Richard M. Waithen,Kentucky,Kentucky,Louisville,$1400.00,Kentucky,0,1400,1.0
+William Clyde Williams,Kentucky,Kentucky,Louisville,$900.00,Kentucky,0,900,1.0
+Julia E. Watson,Kentucky,Kentucky,Louisville,$800.00,Kentucky,0,800,1.0
+William A. Whitwork,Kentucky,Kentucky,Louisville,$800.00,Kentucky,0,800,1.0
+Charles Widman,Kentucky,Kentucky,Louisville,$800.00,Kentucky,0,800,1.0
+Joseph P. Woods,Kentucky,Kentucky,Louisville,$500.00,Kentucky,0,500,1.0
+James P. Winn,Kentucky,Kentucky,Louisville,$500.00,Kentucky,0,500,1.0
+Robert A. Young,Kentucky,Kentucky,Louisville,$600.00,Kentucky,0,600,1.0
+John A. Webb,Kentucky,Kentucky,Manchester,$150.00,Kentucky,0,150,1.0
+Fred. E. Quinn,Missouri,Kentucky,Mayfield,$250.00,Kentucky,0,250,1.0
+Newton C. Powell,Kentucky,Kentucky,Maysville,$600.00,Kentucky,0,600,1.0
+John A. Shea,Kentucky,Kentucky,Maysville,$600.00,Kentucky,0,600,1.0
+Miss M. E. Casey,Kentucky,Kentucky,Morgafield,$100.00,Kentucky,0,100,1.0
+H. R. Moorhead,Kentucky,Kentucky,Morgantown,$100.00,Kentucky,0,100,1.0
+Mrs I. M. Wilkerson,Kentucky,Kentucky,Mount Sterling,$250.00,Kentucky,0,250,1.0
+Jacob Smith,Virginia,Kentucky,Mouth of Pond,$200.00,Kentucky,0,200,1.0
+E. G. Robertson,Kentucky,Kentucky,Murray,$500.00,Kentucky,0,500,1.0
+S. P. Baker,New York,Kentucky,Newport,$1000.00,Kentucky,0,1000,1.0
+Miss Ellen O'Neill,Kentucky,Kentucky,Newport,$600.00,Kentucky,0,600,1.0
+Peter Huser,Kentucky,Kentucky,Newport,$600.00,Kentucky,0,600,1.0
+James E. Purnish,Kentucky,Kentucky,Nicholasville,$600.00,Kentucky,0,600,1.0
+J. E. Hayden,Kentucky,Kentucky,Owensborough,$600.00,Kentucky,0,600,1.0
+Miss Lide Carico,Kentucky,Kentucky,Owensborough,$500.00,Kentucky,0,500,1.0
+Benjamin Roulon,Kentucky,Kentucky,Owensborough,$500.00,Kentucky,0,500,1.0
+Mrs. E. A. Bacon,Kentucky,Kentucky,Owenton,$250.00,Kentucky,0,250,1.0
+C. W. Dycus,Kentucky,Kentucky,Paintsville,$150.00,Kentucky,0,150,1.0
+Charles J. Clark,Kentucky,Kentucky,Paducah,$600.00,Kentucky,0,600,1.0
+Cook Husbands,Kentucky,Kentucky,Paducah,$600.00,Kentucky,0,600,1.0
+John A. Gilson,New Hampshire,Massachusetts,Haverhill,$900.00,Massachusetts,0,900,1.0
+Frank E. Holland,Massachusetts,do,do,$700.00,Massachusetts,0,700,1.0
+William B. Davis,do,do,do,$800.00,Massachusetts,0,800,1.0
+Herbert G. Cole,do,do,do,$600.00,Massachusetts,0,600,1.0
+A. Willard Babcock,New Hampshire,do,do,$600.00,Massachusetts,0,600,1.0
+Miss Alice Ray,Massachusetts,do,Hingham,$250.00,Massachusetts,0,250,1.0
+Mrs. Kate J. Thayer,do,do,Hinsdale,$90.00,Massachusetts,0,90,1.0
+J. W. Bean,do,do,Holyoke,$1100.00,Massachusetts,0,1100,1.0
+T. F. Brennahan,do,do,do,$900.00,Massachusetts,0,900,1.0
+Louis Schneider,Rhode Island,do,do,$800.00,Massachusetts,0,800,1.0
+Robert Stott,New York,do,do,$600.00,Massachusetts,0,600,1.0
+Edwin E. Wing,Massachusetts,do,do,$600.00,Massachusetts,0,600,1.0
+Edwin G. Pomeroy,do,do,Hyde Park,$600.00,Massachusetts,0,600,1.0
+Miss Lora J. Patton,do,do,do,$600.00,Massachusetts,0,600,1.0
+Miss Rachel F. Sullivan,do,do,do,$600.00,Massachusetts,0,600,1.0
+Moses F. Hutchins,do,do,Lawrence,$1000.00,Massachusetts,0,1000,1.0
+Henry J. McQueeney,do,do,do,$900.00,Massachusetts,0,900,1.0
+William J. Morse,do,do,do,$800.00,Massachusetts,0,800,1.0
+James J. Murray,England,do,do,$800.00,Massachusetts,0,800,1.0
+Frank S. Larrabee,Massachusetts,do,do,$600.00,Massachusetts,0,600,1.0
+Michael G. Sullivan,do,do,do,$500.00,Massachusetts,0,500,1.0
+C. W. Hills,do,do,Leominster,$678.00,Massachusetts,0,678,1.0
+S. H. Brackett,Ohio,do,do,$456.00,Massachusetts,0,456,1.0
+Julian A. Richardson,Massachusetts,do,Lowell,$1400.00,Massachusetts,0,1400,1.0
+Edwin H. Cooke,do,do,do,$1100.00,Massachusetts,0,1100,1.0
+Albion S. Holworth,do,do,do,$1000.00,Massachusetts,0,1000,1.0
+Samuel M. Bell,do,do,do,$800.00,Massachusetts,0,800,1.0
+Dennis J. Devine,do,do,do,$800.00,Massachusetts,0,800,1.0
+Hiram C. Gordon,do,do,do,$800.00,Massachusetts,0,800,1.0
+Charles E. Hogan,do,do,do,$600.00,Massachusetts,0,600,1.0
+Harry E. Burrows,New Hampshire,do,do,$600.00,Massachusetts,0,600,1.0
+John E. Enwright,Massachusetts,do,do,$600.00,Massachusetts,0,600,1.0
+William H. Howard,do,do,do,$600.00,Massachusetts,0,600,1.0
+Albert E. Collins,do,do,do,$600.00,Massachusetts,0,600,1.0
+Joseph A. Bourbonniere,Canada,do,do,$400.00,Massachusetts,0,400,1.0
+Granville C. Byam,Maine,do,do,$24.00,Massachusetts,0,24,1.0
+Charles G. Carter,New Hampshire,do,do,$24.00,Massachusetts,0,24,1.0
+Albert L. Field,Vermont,do,do,$24.00,Massachusetts,0,24,1.0
+George C. Osgood,Massachusetts,do,do,$24.00,Massachusetts,0,24,1.0
+Charles W. Swan,do,do,do,$24.00,Massachusetts,0,24,1.0
+William H. Colby,do,do,Lynn,$1200.00,Massachusetts,0,1200,1.0
+George E. Poole,Nova Scotia,do,do,$1000.00,Massachusetts,0,1000,1.0
+George H. Smith,Massachusetts,do,do,$900.00,Massachusetts,0,900,1.0
+Frederick Frothingham,do,do,do,$900.00,Massachusetts,0,900,1.0
+Charles A. Gage,do,do,do,$800.00,Massachusetts,0,800,1.0
+Miss Frances E. Morse,do,do,do,$800.00,Massachusetts,0,800,1.0
+Miss Edith L. Robbins,do,do,do,$600.00,Massachusetts,0,600,1.0
+William H. Merritt,do,do,do,$600.00,Massachusetts,0,600,1.0
+Miss Lizzie S. Waldron,Maine,do,do,$600.00,Massachusetts,0,600,1.0
+Edward F. Morse,Massachusetts,do,do,$500.00,Massachusetts,0,500,1.0
+Lillian D. Slack,Vermont,do,Malden,$640.00,Massachusetts,0,640,1.0
+Sadie G. Colson,Maine,do,do,$400.00,Massachusetts,0,400,1.0
+Maurice I. Gatcomb,do,do,do,$300.00,Massachusetts,0,300,1.0
+Miss Lizzie J. Gilman,Massachusetts,do,Manchester,$150.00,Massachusetts,0,150,1.0
+Daniel G. Brown Jr.,do,do,Marblehead,$100.00,Massachusetts,0,100,1.0
+Benjamin F. Proctor,do,do,do,$100.00,Massachusetts,0,100,1.0
+George L. Stevens,do,do,Marlborough,$650.00,Massachusetts,0,650,1.0
+Mary A. Collins,do,do,do,$420.00,Massachusetts,0,420,1.0
+John C. Murphy,do,do,do,$420.00,Massachusetts,0,420,1.0
+Miss Isabella Paul,do,do,Melrose,$400.00,Massachusetts,0,400,1.0
+Miss Nellie G. Cottle,do,do,do,$300.00,Massachusetts,0,300,1.0
+Miss Clara B. Ellmers,do,do,do,$150.00,Massachusetts,0,150,1.0
+Franklin S. Thompson,do,do,Middleborough,$450.00,Massachusetts,0,450,1.0
+Miss Isabella Greene Turner,do,do,do,$150.00,Massachusetts,0,150,1.0
+E. J. Sheridan,,,do,Milford,$520.00,"Massachusetts,0",Milford,1.0
+A. M. McLaughlin,,,do,do,$465.00,"Massachusetts,0",do,1.0
+A. J. Butler,,,do,do,$465.00,"Massachusetts,0",do,1.0
+Alexander A. Kane,Massachusetts,do,Natick,$700.00,Massachusetts,0,700,1.0
+Humphrey A. Gifford,do,do,New Bedford,$1400.00,Massachusetts,0,1400,1.0
+Charles H. Lobdell,do,do,do,$740.00,Massachusetts,0,740,1.0
+Silas S. Taber,do,do,do,$680.00,Massachusetts,0,680,1.0
+Frank H. Gifford,do,do,do,$500.00,Massachusetts,0,500,1.0
+William G. Manchester,do,do,do,$250.00,Massachusetts,0,250,1.0
+Andrew J. McAvoy,do,do,do,$150.00,Massachusetts,0,150,1.0
+Miss Kate Spooner,do,do,do,$350.00,Massachusetts,0,350,1.0
+Miss Nannie E. Foster,do,do,do,$316.00,Massachusetts,0,316,1.0
+Miss Abby W. Nye,do,do,do,$120.00,Massachusetts,0,120,1.0
+Samuel Brookins Jr.,do,do,Newburyport,$900.00,Massachusetts,0,900,1.0
+J. Herman Carver,do,do,do,$600.00,Massachusetts,0,600,1.0
+Henry Dearborn,Massachusetts,do,do,$600.00,Massachusetts,0,600,1.0
+George F. Dale,do,do,do,$600.00,Massachusetts,0,600,1.0
+Miss Nellie C. Grace,do,do,Newton,$440.00,Massachusetts,0,440,1.0
+Miss Julia A. Williams,do,do,do,$360.00,Massachusetts,0,360,1.0
+Miss Marcia E. Batcheldor,do,do,Newtonville,$600.00,Massachusetts,0,600,1.0
+Arthur A. Brackett,do,do,do,$600.00,Massachusetts,0,600,1.0
+Clinton A. Larabee,do,do,North Adams,$700.00,Massachusetts,0,700,1.0
+Walter M. McPherson,do,do,do,$600.00,Massachusetts,0,600,1.0
+Anthony Athanasor,do,do,do,$600.00,Massachusetts,0,600,1.0
+David F. Little,New York,do,do,$600.00,Massachusetts,0,600,1.0
+John A. Duggan,Massachusetts,do,do,$600.00,Massachusetts,0,600,1.0
+Arthur L. Thayer,do,do,Northampton,$600.00,Massachusetts,0,600,1.0
+Hamilton McCullough,Missouri,Missouri,St. Louis,$1100.00,Missouri,0,1100,1.0
+Robert J. McKay,Ireland,do,do,$700.00,Missouri,0,700,1.0
+Patrick Maher,Ireland,do,do,$900.00,Missouri,0,900,1.0
+Philip McCoy,Pennsylvania,do,do,$1400.00,Missouri,0,1400,1.0
+Edward McGuire,Virginia,do,do,$900.00,Missouri,0,900,1.0
+Louis C. Miller,Illinois,do,do,$700.00,Missouri,0,700,1.0
+Paul H. Mueller,Germany,do,do,$600.00,Missouri,0,600,1.0
+Michael J. McCormack,Missouri,do,do,$500.00,Missouri,0,500,1.0
+Andrew J. Mahoney,do,do,do,$600.00,Missouri,0,600,1.0
+Howard E. Mahan,do,do,do,$500.00,Missouri,0,500,1.0
+James S. McCann,do,do,do,$600.00,Missouri,0,600,1.0
+John Murray,,,do,do,$24.00,"Missouri,0",do,1.0
+Edward P. Martin,,,do,do,$24.00,"Missouri,0",do,1.0
+Alexander Masbrook,,,do,do,$24.00,"Missouri,0",do,1.0
+Frederick W. Meckfessel,,,do,do,$24.00,"Missouri,0",do,1.0
+William C. H. Nolte,Missouri,do,do,$700.00,Missouri,0,700,1.0
+Augustus J. Neettemann,do,do,do,$700.00,Missouri,0,700,1.0
+Paul D. Nelson,,,do,do,$24.00,"Missouri,0",do,1.0
+Paul M. Nake,,,do,do,$24.00,"Missouri,0",do,1.0
+Edward A. Ostern,Missouri,do,do,$700.00,Missouri,0,700,1.0
+Philip Ostermayer,,,do,do,$24.00,"Missouri,0",do,1.0
+Frederick A. Pim,Missouri,do,do,$1600.00,Missouri,0,1600,1.0
+John Poth,do,do,do,$600.00,Missouri,0,600,1.0
+Silas T. Powell,Tennessee,do,do,$1000.00,Missouri,0,1000,1.0
+Charles W. Parker,Missouri,do,do,$1000.00,Missouri,0,1000,1.0
+John B. Pratt,New York,do,do,$1100.00,Missouri,0,1100,1.0
+Horatio W. Parker,Ohio,do,do,$700.00,Missouri,0,700,1.0
+Henry F. Pinkham,do,do,do,$700.00,Missouri,0,700,1.0
+James F. Power,do,do,do,$600.00,Missouri,0,600,1.0
+George H. Pimpel,do,do,do,$600.00,Missouri,0,600,1.0
+John F. Powers,do,do,do,$600.00,Missouri,0,600,1.0
+Frank H. Powell,West Virginia,do,do,$600.00,Missouri,0,600,1.0
+Herman Pockels,,,do,do,$24.00,"Missouri,0",do,1.0
+Parker. Russell & Co,,,do,do,$24.00,"Missouri,0",do,1.0
+John Querle,,,do,do,$24.00,"Missouri,0",do,1.0
+Eugene J. Roth,Missouri,do,do,$1100.00,Missouri,0,1100,1.0
+Frank J. Roth,do,do,do,$1400.00,Missouri,0,1400,1.0
+P. Owen Roberts,do,do,do,$1100.00,Missouri,0,1100,1.0
+Justus H. Reinhardt,do,do,do,$1000.00,Missouri,0,1000,1.0
+Gustav A. Robyn,do,do,do,$1000.00,Missouri,0,1000,1.0
+John Roethe,Ohio,do,do,$1000.00,Missouri,0,1000,1.0
+Gustave H. Ruedi,Missouri,do,do,$800.00,Missouri,0,800,1.0
+Frank A. Rehm,do,do,do,$800.00,Missouri,0,800,1.0
+William A. Ross,Scotland,do,do,$900.00,Missouri,0,900,1.0
+John H. Reinhardt,Missouri,do,do,$800.00,Missouri,0,800,1.0
+William Roy,England,do,do,$900.00,Missouri,0,900,1.0
+Frank B. Roeder,Missouri,do,do,$1000.00,Missouri,0,1000,1.0
+Eugene Reno,do,do,do,$700.00,Missouri,0,700,1.0
+Robert A. Reilly,,,do,do,$24.00,"Missouri,0",do,1.0
+George Reber,,,do,do,$24.00,"Missouri,0",do,1.0
+Joseph Repple,,,do,do,$24.00,"Missouri,0",do,1.0
+Leo B. Sweeney,Missouri,do,do,$900.00,Missouri,0,900,1.0
+Gus. A. Schmidt,Germany,do,do,$1100.00,Missouri,0,1100,1.0
+Alexander L. Stormont,Missouri,do,do,$900.00,Missouri,0,900,1.0
+George J. Schmidt,do,do,do,$900.00,Missouri,0,900,1.0
+Robert B. Singleton,do,do,do,$900.00,Missouri,0,900,1.0
+Henry Smith Jr,Louisiana,do,do,$900.00,Missouri,0,900,1.0
+Armstead Steele,Kentucky,do,do,$700.00,Missouri,0,700,1.0
+James E. Shoemaker,Pennsylvania,do,do,$700.00,Missouri,0,700,1.0
+Edward Shoemaker,do,do,do,$600.00,Missouri,0,600,1.0
+Herman H. Spilker,Germany,do,do,$700.00,Missouri,0,700,1.0
+Jacob Stiehl,do,do,do,$800.00,Missouri,0,800,1.0
+John B. Sullivan,Missouri,do,do,$900.00,Missouri,0,900,1.0
+Cornelius H. Sanguinet,do,do,do,$600.00,Missouri,0,600,1.0
+Edward A. Savage,do,do,do,$600.00,Missouri,0,600,1.0
+John W. Stevens,do,do,do,$600.00,Missouri,0,600,1.0
+Charles C. Stevens,,,do,do,$24.00,"Missouri,0",do,1.0
+Scheel & Cramer,,,do,do,$24.00,"Missouri,0",do,1.0
+Louis Schurk,,,do,do,$24.00,"Missouri,0",do,1.0
+Herman F. A. Spilker,,,do,do,$24.00,"Missouri,0",do,1.0
+William Standling,,,do,do,$24.00,"Missouri,0",do,1.0
+Frank Schiller,,,do,do,$24.00,"Missouri,0",do,1.0
+Henry W. Strathmann,,,do,do,$24.00,"Missouri,0",do,1.0
+Romaine Thomas,New Jersey,do,do,$1000.00,Missouri,0,1000,1.0
+Frederick L. Towles,Virginia,do,do,$2400.00,Missouri,0,2400,1.0
+Morris H. Taylor,New Jersey,do,do,$700.00,Missouri,0,700,1.0
+Alexander C. Taylor,Missouri,do,do,$900.00,Missouri,0,900,1.0
+Albert G. Trebue,,,do,do,$900.00,"Missouri,0",do,1.0
+Albert S. Thornburgh,Missouri,do,do,$1000.00,Missouri,0,1000,1.0
+Charles F. Tackett,do,do,do,$600.00,Missouri,0,600,1.0
+John J. Tatum,do,do,do,$600.00,Missouri,0,600,1.0
+Reinhold J. Tietze,,,do,do,$24.00,"Missouri,0",do,1.0
+Wesley W. Thornton,,,do,do,$24.00,"Missouri,0",do,1.0
+Herman H. Temm,,,do,do,$24.00,"Missouri,0",do,1.0
+Frederick A. Uhlich,,,do,do,$24.00,"Missouri,0",do,1.0
+Henry H. Vogt,,,do,do,$24.00,"Missouri,0",do,1.0
+William E. Wheeler,Ohio,do,do,$1000.00,Missouri,0,1000,1.0
+Charles Wess,Sweden,do,do,$1200.00,Missouri,0,1200,1.0
+Adam Weber,Missouri,do,do,$1100.00,Missouri,0,1100,1.0
+Albert S. Whitehead,do,do,do,$1000.00,Missouri,0,1000,1.0
+George H. Wesseling,do,do,do,$900.00,Missouri,0,900,1.0
+Charles F. Worack,Missouri,Missouri,St. Louis,$800.00,Missouri,0,800,1.0
+Marinus W. Warne,do,do,do,$900.00,Missouri,0,900,1.0
+James Walsh,Ireland,do,do,$600.00,Missouri,0,600,1.0
+Joseph E. Wilkinson,Missouri,do,do,$900.00,Missouri,0,900,1.0
+Edward Wittich,Illinois,do,do,$1200.00,Missouri,0,1200,1.0
+Francis M. Wood Jr.,Missouri,do,do,$900.00,Missouri,0,900,1.0
+James C. Ward,do,do,do,$700.00,Missouri,0,700,1.0
+Thomas H. Warnb,,,do,do,$24.00,"Missouri,0",do,1.0
+John H. Wille,,,do,do,$24.00,"Missouri,0",do,1.0
+James T. Walsh,,,do,do,$24.00,"Missouri,0",do,1.0
+Frank H. Westmann,,,do,do,$24.00,"Missouri,0",do,1.0
+Julius Weinsberg,,,do,do,$24.00,"Missouri,0",do,1.0
+Albert F. Wollner,,,do,do,$24.00,"Missouri,0",do,1.0
+Frederick Zepp,Missouri,do,do,$1000.00,Missouri,0,1000,1.0
+Charles H. Zahn,,,do,do,$24.00,"Missouri,0",do,1.0
+W. C. Askin,Missouri,do,Salem,$150.00,Missouri,0,150,1.0
+C. M. Eccles,Illinois,do,Salisbury,$100.00,Missouri,0,100,1.0
+J. H. Hutchinson,Scotland,do,Sedalia,$100.00,Missouri,0,100,1.0
+George W. Cummings,Indiana,do,Sedalia,$810.00,Missouri,0,810,1.0
+William T. Cahill,Kentucky,do,do,$565.00,Missouri,0,565,1.0
+Thos E. Hyer,do,do,do,$380.00,Missouri,0,380,1.0
+Clement C. Reed,West Virginia,do,do,$325.00,Missouri,0,325,1.0
+William F. Harris,Missouri,do,do,$150.00,Missouri,0,150,1.0
+Mrs. Lizzie Russell,do,do,do,$500.00,Missouri,0,500,1.0
+Mrs. J. L. Faxler,Tennessee,do,do,$100.00,Missouri,0,100,1.0
+Miss Annie H. Swormstedt,Illinois,do,Seneca,$100.00,Missouri,0,100,1.0
+Miss Minnie B. Preston,do,do,Shelbyville,$100.00,Missouri,0,100,1.0
+Miss Fratie E. Combs,Missouri,do,Sheldon,$100.00,Missouri,0,100,1.0
+John D. Pipkins,do,do,Springfield,$1000.00,Missouri,0,1000,1.0
+Frank G. Cowan,Ohio,do,do,$900.00,Missouri,0,900,1.0
+George W. Nicholson,Missouri,do,do,$600.00,Missouri,0,600,1.0
+Henry E. Gardner,do,do,do,$600.00,Missouri,0,600,1.0
+W. G. Homan,do,do,do,$600.00,Missouri,0,600,1.0
+P. B. Mayo,Tennessee,do,do,$600.00,Missouri,0,600,1.0
+Clara Brown,Illinois,do,do,$600.00,Missouri,0,600,1.0
+Harry Steinmeyer,Missouri,do,Stanberry,$100.00,Missouri,0,100,1.0
+Mrs. Dora C. Ferguson,do,do,Stockton,$200.00,Missouri,0,200,1.0
+J. B. Wilson,Illinois,do,Thayer,$150.00,Missouri,0,150,1.0
+Mrs. S. Park Garvin,Missouri,do,Trenton,$300.00,Missouri,0,300,1.0
+David Marshall,Scotland,do,Tuscumbia,$100.00,Missouri,0,100,1.0
+Fannie C. Little,Missouri,do,Unionville,$120.00,Missouri,0,120,1.0
+Miss Louise McCaffery,Ireland,do,Versailles,$100.00,Missouri,0,100,1.0
+James W. Williams,Missouri,do,Warrenton,$324.00,Missouri,0,324,1.0
+Charles Potter,Illinois,do,Warsaw,$250.00,Missouri,0,250,1.0
+Lewis F. Pues,Ohio,do,Washington,$250.00,Missouri,0,250,1.0
+Joseph L. Ehlen,Tennessee,do,Westport,$400.00,Missouri,0,400,1.0
+J. L. Shelton,Missouri,do,Windsor,$100.00,Missouri,0,100,1.0
+William B. George,Missouri,Montana,Billings,$400.00,Montana,0,400,1.0
+Mrs. Anna Ebert,Illinois,do,Blakely,$100.00,Montana,0,100,1.0
+Belle G. W. Hale,New York,do,Boulder Valley,$250.00,Montana,0,250,1.0
+J. C. Vilas,Kentucky,do,Bozeman,$600.00,Montana,0,600,1.0
+W. C. Batchelor,California,do,Butte City,$1800.00,Montana,0,1800,1.0
+S. J. Morin,Kentucky,do,do,$1800.00,Montana,0,1800,1.0
+E. L. Newcomb,Illinois,do,do,$900.00,Montana,0,900,1.0
+William W. Almon,do,do,do,$900.00,Montana,0,900,1.0
+Philip E. Poindexter,California,do,Dillon,$300.00,Montana,0,300,1.0
+Fred. A. Burr,Canada,do,Fort Benton,$100.00,Montana,0,100,1.0
+William Auset,New York,do,Garrison,$100.00,Montana,0,100,1.0
+Fred. E. Hoss,Pennsylvania,do,Helena,$1620.00,Montana,0,1620,1.0
+William M. Bishop,Connecticut,do,do,$1200.00,Montana,0,1200,1.0
+Clarence B. Anderson,New York,do,do,$1080.00,Montana,0,1080,1.0
+Charles F. English,Iowa,do,do,$900.00,Montana,0,900,1.0
+Claude D. La Croix,Montana,do,do,$800.00,Montana,0,800,1.0
+James Shields,Massachusetts,do,do,$800.00,Montana,0,800,1.0
+Stilos M. Parks,Minnesota,do,Livingston,$500.00,Montana,0,500,1.0
+L. L. Lush,New York,do,Marysville,$100.00,Montana,0,100,1.0
+Miss A. Maud Stickman,Pennsylvania,do,Melrose,$75.00,Montana,0,75,1.0
+Miss Lizzie McAusland,Missouri,do,Miles City,$500.00,Montana,0,500,1.0
+A. T. McAusland,Nebraska,do,do,$250.00,Montana,0,250,1.0
+Paul C. Wagnitz,Michigan,do,Missoula City,$500.00,Montana,0,500,1.0
+W. A. Means,Maine,do,do,$180.00,Montana,0,180,1.0
+Mrs. R. M. Vaughn,Minnesota,do,Townsend,$200.00,Montana,0,200,1.0
+Charles Dow French,Montana,do,Virginia City,$200.00,Montana,0,200,1.0
+Milton F. Smith,Missouri,Nebraska,Albion,$100.00,Nebraska,0,100,1.0
+F. B. Miller,Ohio,do,Albion,$200.00,Nebraska,0,200,1.0
+E. R. Patterson,Wisconsin,do,Alliance,$100.00,Nebraska,0,100,1.0
+Miss Mary E. Stewart,Ohio,do,Alma,$150.00,Nebraska,0,150,1.0
+Miss Lillie Paige,Indiana,do,Atkinson,$100.00,Nebraska,0,100,1.0
+John Clements,do,do,Auburn,$200.00,Nebraska,0,200,1.0
+James G. Lawrence,Massachusetts,do,Beatrice,$900.00,Nebraska,0,900,1.0
+Elmer M. Carrithers,Illinois,do,do,$48.00,Nebraska,0,48,1.0
+George H. Van Horn,Michigan,do,do,$360.00,Nebraska,0,360,1.0
+Eurica E. Hawkins,Illinois,do,do,$360.00,Nebraska,0,360,1.0
+Miss J. V. Wynegar,Iowa,do,Benklman,$200.00,Nebraska,0,200,1.0
+Miss Grant Cook,Ohio,do,Blair,$200.00,Nebraska,0,200,1.0
+Miss Chal Miller,Ohio,Ohio,Martin's Ferry,$150.00,Ohio,0,150,1.0
+Michael Bar,Ohio,Ohio,Massillon,$700.00,Ohio,0,700,1.0
+Jerome F. Shepley,Ohio,Ohio,do,$400.00,Ohio,0,400,1.0
+C. N. Oberlin,Ohio,Ohio,do,$300.00,Ohio,0,300,1.0
+Charles A. Felix,Ohio,Ohio,do,$300.00,Ohio,0,300,1.0
+Miss Sarah Alden,Ohio,Ohio,Medina,$300.00,Ohio,0,300,1.0
+Charles E. Barnett,Ohio,Ohio,Middletown,$75.00,Ohio,0,75,1.0
+Otto L. Dell,Ohio,Ohio,do,$300.00,Ohio,0,300,1.0
+John E. Strickland,Ohio,Ohio,do,$520.00,Ohio,0,520,1.0
+S. W. Floyd,Ohio,Ohio,Milford,$180.00,Ohio,0,180,1.0
+Elsa Rice,Ohio,Ohio,Milton Centre,$100.00,Ohio,0,100,1.0
+E. Switzer,Ohio,Ohio,Mount Vernon,$440.00,Ohio,0,440,1.0
+H. E. Gotshall,Ohio,Ohio,do,$450.00,Ohio,0,450,1.0
+W. B. Brown,Ohio,Ohio,do,$175.00,Ohio,0,175,1.0
+Bessie Stonebumer,Ohio,Ohio,Nelsonville,$400.00,Ohio,0,400,1.0
+D. H. Nash,Ohio,Ohio,Newark,$600.00,Ohio,0,600,1.0
+James S. Pryor,Ohio,Ohio,do,$400.00,Ohio,0,400,1.0
+Sara Taylor,Ohio,Ohio,do,$300.00,Ohio,0,300,1.0
+William Slater,Ohio,Ohio,do,$600.00,Ohio,0,600,1.0
+William Buris,Germany,Ohio,New Bremen,$80.00,Ohio,0,80,1.0
+Miss Flora Lacy,Ohio,Ohio,New Comerstown,$100.00,Ohio,0,100,1.0
+Miss Mary Shields,Ohio,Ohio,New Lisbon,$300.00,Ohio,0,300,1.0
+W. A. Korner,Ohio,Ohio,New Philadelphia,$300.00,Ohio,0,300,1.0
+Mary W. Sturges,Ohio,Ohio,New Richmond,$200.00,Ohio,0,200,1.0
+L. D. Arthur,Ohio,Ohio,New Vienna,$50.00,Ohio,0,50,1.0
+F. G. Broughton,Ohio,Ohio,Newark,$500.00,Ohio,0,500,1.0
+Miss Sallie Armstrong,Ohio,Ohio,do,$300.00,Ohio,0,300,1.0
+Miss Sarah Birnet,Ohio,Ohio,do,$225.00,Ohio,0,225,1.0
+Mrs. Hannah Vail,New Jersey,Ohio,do,$175.00,Ohio,0,175,1.0
+W. P. M. Gilbert,,,Ohio,Oberlin,$800.00,"Ohio,0",Oberlin,1.0
+E. H. Loomis,,,Ohio,do,$900.00,"Ohio,0",do,1.0
+Harry Weisheimer,Ohio,Ohio,Orrville,$600.00,Ohio,0,600,1.0
+Harry W. Andre,Ohio,Ohio,Painesville,$600.00,Ohio,0,600,1.0
+Jean H. Taylor,Ohio,Ohio,do,$500.00,Ohio,0,500,1.0
+Mary A. Buick,Ohio,Ohio,do,$200.00,Ohio,0,200,1.0
+Charles E. Schlosser,Germany,Ohio,Piqua,$600.00,Ohio,0,600,1.0
+Miss Hattie Miller,Ohio,Ohio,do,$300.00,Ohio,0,300,1.0
+Miss Emma Newkirk,Ohio,Ohio,do,$300.00,Ohio,0,300,1.0
+Alonza Palmer,New York,Ohio,Plimpton,$75.00,Ohio,0,75,1.0
+George A. Ellinwood,Ohio,Ohio,Pomeroy,$180.00,Ohio,0,180,1.0
+Bradford G. Montgomery,Ohio,Ohio,Port Clinton,$400.00,Ohio,0,400,1.0
+Will. H. Ware,Ohio,Ohio,Portsmouth,$540.00,Ohio,0,540,1.0
+William Waller,Ohio,Ohio,do,$420.00,Ohio,0,420,1.0
+James M. Dunn,Ohio,Ohio,do,$420.00,Ohio,0,420,1.0
+Mrs. Hattie Barker,Ohio,Ohio,do,$240.00,Ohio,0,240,1.0
+J. W. Begley,Colorado,Ohio,Ravenna,$400.00,Ohio,0,400,1.0
+M. E. Wickline,Ohio,Ohio,Rio Grande,$45.00,Ohio,0,45,1.0
+Mrs. Eva I. Smith,Ohio,Ohio,Rockwood,$45.00,Ohio,0,45,1.0
+Mary W. Campbell,Ohio,Ohio,St. Clairsville,$300.00,Ohio,0,300,1.0
+Edward A. Poulson,Ohio,Ohio,St. Mary's,$300.00,Ohio,0,300,1.0
+C. Townsend,Pennsylvania,Ohio,Salem,$266.66,Ohio,0,266,1.0
+S. P. Connell,Ohio,Ohio,do,$266.66,Ohio,0,266,1.0
+Miss Maggie Dewick,Ohio,Ohio,do,$266.66,Ohio,0,266,1.0
+W. C. Hale,Ohio,Ohio,Sandusky,$1000.00,Ohio,0,1000,1.0
+William Hess,Pennsylvania,Ohio,do,$600.00,Ohio,0,600,1.0
+George Daniel Jr.,Ohio,Ohio,do,$600.00,Ohio,0,600,1.0
+Miss Mina M. Ritter,New York,Ohio,do,$600.00,Ohio,0,600,1.0
+Julia Stoneburner,Ohio,Ohio,do,$500.00,Ohio,0,500,1.0
+Miss Anna Holmes,Ohio,Ohio,Sardinia,$100.00,Ohio,0,100,1.0
+Miss Linnie M. Patton,Ohio,Ohio,Scio,$90.00,Ohio,0,90,1.0
+John N. McCardy Jr.,Ohio,Ohio,Sciotoville,$75.00,Ohio,0,75,1.0
+T. H. Brown,Massachusetts,Ohio,Springfield,$1300.00,Ohio,0,1300,1.0
+Edward Trimett,Ohio,Ohio,do,$600.00,Ohio,0,600,1.0
+Edward Day,Ohio,Ohio,do,$600.00,Ohio,0,600,1.0
+Patrick F. Griffin,Ohio,Ohio,do,$700.00,Ohio,0,700,1.0
+O. H. Johnson,Ohio,Ohio,do,$1000.00,Ohio,0,1000,1.0
+Albert Kiesel,Ohio,Ohio,do,$400.00,Ohio,0,400,1.0
+George E. Rawlins,Missouri,Ohio,do,$1300.00,Ohio,0,1300,1.0
+John McKendy,New York,Ohio,do,$800.00,Ohio,0,800,1.0
+Frederick L. Miller,Ohio,Ohio,do,$600.00,Ohio,0,600,1.0
+James Cull,Indiana,Ohio,do,$800.00,Ohio,0,800,1.0
+J. S. Petticrew,Ohio,Ohio,do,$1000.00,Ohio,0,1000,1.0
+H. M. Sicks,West Virginia,Ohio,do,$600.00,Ohio,0,600,1.0
+Miss Lizzie H. Moore,West Virginia,Ohio,Steubenville,$410.00,Ohio,0,410,1.0
+John M. Whalen,Ohio,Ohio,do,$400.00,Ohio,0,400,1.0
+William Schaefer,Ohio,Ohio,do,$240.00,Ohio,0,240,1.0
+James S. Kempel,Illinois,Ohio,Tiffin,$400.00,Ohio,0,400,1.0
+John B. Finge,Ohio,Ohio,do,$450.00,Ohio,0,450,1.0
+Miss Ella Sugrue,Ohio,Ohio,do,$240.00,Ohio,0,240,1.0
+Oscar O. Oliver,Ohio,Ohio,do,$180.00,Ohio,0,180,1.0
+Theodore Hoffman,Ohio,Ohio,Toledo,$600.00,Ohio,0,600,1.0
+Thomas Ord,Ohio,Ohio,do,$600.00,Ohio,0,600,1.0
+James P. Christy,Ohio,Ohio,do,$700.00,Ohio,0,700,1.0
+Sanford W. Cook,Pennsylvania,Ohio,do,$24.00,Ohio,0,24,1.0
+Frederick Cranston Jr.,Ohio,Ohio,do,$800.00,Ohio,0,800,1.0
+Frank Dechert,Ohio,Ohio,do,$700.00,Ohio,0,700,1.0
+Frank Horseman,New York,Ohio,do,$1300.00,Ohio,0,1300,1.0
+Ernest L. Defenbaugh,Ohio,Ohio,do,$600.00,Ohio,0,600,1.0
+Charles Pennington,Ohio,Ohio,do,$1000.00,Ohio,0,1000,1.0
+Miss Carrie H. Dorr,Ohio,Ohio,do,$800.00,Ohio,0,800,1.0
+Scott Gibbs,Ohio,Ohio,do,$700.00,Ohio,0,700,1.0
