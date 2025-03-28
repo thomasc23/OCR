@@ -1,0 +1,590 @@
+Name,Where born,Whence appointed,Post-office,Compensation per annum,State,Postmaster,salary_clean,extraction_confidence
+Claude G. Baker,Illinois,Illinois,Streator,$480.00,,0,480,1.0
+Charles D. Hagerty,do,do,do,$480.00,,0,480,1.0
+George A. Paul,do,do,do,$480.00,,0,480,1.0
+Miss Mary A. Hesket,do,do,Sullivan,$150.00,,0,150,1.0
+C. F. Martin,do,do,Sycamore,$60.00,,0,60,1.0
+A. C. Cliffe,do,do,do,$60.00,,0,60,1.0
+D. D. Smith,do,do,do,$50.00,,0,50,1.0
+Benjamin F. Lantz,do,do,Taylorville,$150.00,,0,150,1.0
+Miss E. E. Colvin,do,do,Tolono,$200.00,,0,200,1.0
+Clinton J. Norton,do,do,do,$90.00,,0,90,1.0
+William M. Ingraham,Indiana,do,Tuscola,$200.00,,0,200,1.0
+Frank M. Grier,Illinois,do,Urbana,$50.00,,0,50,1.0
+Miss Maggie Carroll,do,do,Vandalia,$200.00,,0,200,1.0
+Mattie Spann,do,do,Vienna,$90.00,,0,90,1.0
+Miss Minnie Kirkpatrick,do,do,Virden,$100.00,,0,100,1.0
+George Moulton,do,do,Virginia,$125.00,,0,125,1.0
+Alexander B. Kerlin,Pennsylvania,do,Warren,$150.00,,0,150,1.0
+Henry Wiesemann,Illinois,do,Warsaw,$300.00,,0,300,1.0
+J. W. Zink,do,do,Waukegan,$300.00,,0,300,1.0
+Edward Wyllie,do,do,Wellington,$50.00,,0,50,1.0
+Frederick W. Bucher,do,do,Wenona,$90.00,,0,90,1.0
+Miss Lottie S. Smith,Pennsylvania,do,Wright's Grove,$100.00,,0,100,1.0
+Bartlett H. Campbell,Indiana,Indiana,Anderson,$900.00,,0,900,1.0
+Charles S. Freysing,do,do,Angola,$100.00,,0,100,1.0
+James M. Boyd,do,do,Annapolis,$50.00,,0,50,1.0
+James D. McDonald Jr,do,do,Attica,$200.00,,0,200,1.0
+Miss Josephine Harris,Ohio,do,Auburn Junction,$100.00,,0,100,1.0
+Paul G. Glenn,Indiana,do,Aurora,$200.00,,0,200,1.0
+Arthur McCain,do,do,Bedford,$50.00,,0,50,1.0
+Leonidas D. Rogers,do,do,Bloomington,$500.00,,0,500,1.0
+Miss Clara Bennett,do,do,do,$300.00,,0,300,1.0
+Louis Bohn,do,do,Boonville,$150.00,,0,150,1.0
+Miss Jennie Stewart,do,do,Brazil,$100.00,,0,100,1.0
+George Cones,do,do,Brookville,$54.00,,0,54,1.0
+Menzie H. Stoy,do,do,Butler,$60.00,,0,60,1.0
+Mrs. Hattie Kiess,do,do,Cambridge City,$51.00,,0,51,1.0
+J. C. Christney,do,do,Christney,$100.00,,0,100,1.0
+William H. Pfeifer,do,do,Columbus,$200.00,,0,200,1.0
+Miss Nellie Powner,do,do,do,$200.00,,0,200,1.0
+Miss Florence A. Brown,do,do,Columbia City,$150.00,,0,150,1.0
+William E. Post,,,do,$60.00,,0,60,1.0
+James L. Miller,Indiana,Indiana,Connersville,$54.00,,0,54,1.0
+Miss Kate Douglass,do,do,Covdon,$100.00,,0,100,1.0
+William P. Douglass,do,do,do,$200.00,,0,200,1.0
+Miss Kate Dorsett,do,do,do,$100.00,,0,100,1.0
+Mrs. Kate E. Groom,do,do,Covington,$50.00,,0,50,1.0
+Miss Matilda J. Compton,do,do,Crawfordsville,$45.00,,0,45,1.0
+Samuel Johnson,do,do,do,$200.00,,0,200,1.0
+James Bowman,do,do,do,$84.00,,0,84,1.0
+Miss Minnie Sanger,do,do,do,$50.00,,0,50,1.0
+George Sanger,do,do,Crown Point,$150.00,,0,150,1.0
+Miss Anna Pounds,do,do,Danville,$150.00,,0,150,1.0
+James C. Patterson,do,do,do,$90.00,,0,90,1.0
+Allen K. Rogers,do,do,Delphi,$250.00,,0,250,1.0
+Miss Maggie Philips,do,do,Dillsborough,$75.00,,0,75,1.0
+Miss Lizzie Barnard,do,do,Edinburg,$60.00,,0,60,1.0
+Ewing L. Bedman,Ohio,do,Elkhart,$480.00,,0,480,1.0
+Mrs. Eliza J. Norton,Connecticut,do,do,$48.00,,0,48,1.0
+Mrs. Martha Ann Bonnell,Ohio,do,do,$42.00,,0,42,1.0
+William F. Norton,Michigan,do,do,$48.00,,0,48,1.0
+Joseph E. Lehr,Germany,do,Evansville,$1,500.00,",0",1,1.0
+Charles E. Bower,New York,do,do,$900.00,,0,900,1.0
+Otto Schurschenburg,Germany,do,do,$1,000.00,",0",1,1.0
+Joseph E. Strecke,Kentucky,do,do,$700.00,,0,700,1.0
+Charles W. Kroener,Indiana,do,do,$525.00,,0,525,1.0
+Frederick Schellheimer,do,do,do,$525.00,,0,525,1.0
+John J. Schultz,do,do,do,$525.00,,0,525,1.0
+George B. Scott,do,do,do,$600.00,,0,600,1.0
+Otto F. Herbst,do,do,Fort Wayne,$1,200.00,",0",1,1.0
+Joseph C. Willard,Ohio,do,do,$200.00,,0,200,1.0
+Carl Seimon,Germany,do,do,$50.00,,0,50,1.0
+Frederick J. Drake,New York,do,do,$200.00,,0,200,1.0
+Edward Schaughnessy,Ohio,do,do,$50.00,,0,50,1.0
+William F. Bolning,Indiana,do,do,$400.00,,0,400,1.0
+Elmer L. Cutler,do,do,do,$400.00,,0,400,1.0
+Thomas J. Lanigan,do,do,do,$400.00,,0,400,1.0
+Joseph F. Borean,do,do,do,$525.00,,0,525,1.0
+Henry Doepky,Kentucky,do,Franklin,$60.00,,0,60,1.0
+William A. Mains,Ohio,do,Frankfort,$400.00,,0,400,1.0
+James C. Gray,Indiana,do,Freedom,$125.00,,0,125,1.0
+James E. Mustard,do,do,Glen Hall,$75.00,,0,75,1.0
+Charles J. Crocker,do,do,Goshen,$52.00,,0,52,1.0
+Miss Hattie P. Bates,Ohio,do,do,$125.00,,0,125,1.0
+Miss Nettie Campbell,Indiana,do,Gosport,$50.00,,0,50,1.0
+Miss Clara Snyder,do,do,Greencastle,$105.00,,0,105,1.0
+Charles Brumley,do,do,do,$158.00,,0,158,1.0
+James H. Neil,do,do,do,$200.00,,0,200,1.0
+Claud H. Neff,Illinois,Kansas,Wichita,$720.00,Kansas,0,720,1.0
+Robert N. Glenn,do,do,do,$720.00,Kansas,0,720,1.0
+Robert F. Shields,Kentucky,do,do,$450.00,Kansas,0,450,1.0
+Charles H. Rumsey,Maryland,do,do,$450.00,Kansas,0,450,1.0
+William F. Gray,Ohio,do,do,$450.00,Kansas,0,450,1.0
+John Lott,Minnesota,do,do,$450.00,Kansas,0,450,1.0
+John S. Denny,Indiana,do,do,$450.00,Kansas,0,450,1.0
+Charles R. Wagner,Tennessee,do,do,$450.00,Kansas,0,450,1.0
+Philip D. Munsel,Ohio,do,do,$360.00,Kansas,0,360,1.0
+John C. Czar,Illinois,do,do,$500.00,Kansas,0,500,1.0
+William A. Stephens,Wisconsin,do,Winfield,$800.00,Kansas,0,800,1.0
+Stephen A. Sanderson,Illinois,do,do,$450.00,Kansas,0,450,1.0
+De Susie Bryan,Missouri,do,do,$180.00,Kansas,0,180,1.0
+Frank Mapes,,,Wyandotte,$680.00,Kansas,0,680,1.0
+C. C. Hull,,,do,$360.00,Kansas,0,360,1.0
+George P. Lott,,,do,$360.00,Kansas,0,360,1.0
+Horatio Boyd,,,do,$400.00,Kansas,0,400,1.0
+J. W. Graham,Kentucky,do,Yates Center,$500.00,Kansas,0,500,1.0
+S. C. Moseley,Kentucky,Kentucky,Adairville,$100.00,Kentucky,0,100,1.0
+William Hughes,do,do,Adairville,$90.00,Kentucky,0,90,1.0
+J. Stephen Eckles,do,do,Ashland,$200.00,Kentucky,0,200,1.0
+Thomas D. Bondo,do,do,Augusta,$100.00,Kentucky,0,100,1.0
+Mrs. Belle Annes,do,do,Barboursville,$150.00,Kentucky,0,150,1.0
+Roderick H. Davies,Virginia,do,Beattyville,$100.00,Kentucky,0,100,1.0
+F. D. Meflin,Kentucky,do,Beaver Dam,$200.00,Kentucky,0,200,1.0
+Jesse M. Bishop,do,do,Blandville,$100.00,Kentucky,0,100,1.0
+C. M. Coombs,do,do,Bowling Green,$300.00,Kentucky,0,300,1.0
+Walter D. Sluyer,do,do,do,$350.00,Kentucky,0,350,1.0
+G. G. Childress,do,do,Burkesville,$250.00,Kentucky,0,250,1.0
+Geo. E. Smith,do,do,Cadiz,$90.00,Kentucky,0,90,1.0
+Dan. W. Mitchell,do,do,Campbellsville,$90.00,Kentucky,0,90,1.0
+Mary Eastham,do,do,Carrollburgh,$100.00,Kentucky,0,100,1.0
+Henry Kemp,do,do,Columbia,$250.00,Kentucky,0,250,1.0
+Walker Richardson,do,do,Columbia,$150.00,Kentucky,0,150,1.0
+T. M. Merriam,Indiana,do,Cornith,$75.00,Kentucky,0,75,1.0
+Thomas A. Cowles,Kentucky,do,Cornwell,$100.00,Kentucky,0,100,1.0
+John L. Farber,do,do,Covington,$1300.00,Kentucky,0,1300,1.0
+Allison H. Kinchcloe,do,do,do,$800.00,Kentucky,0,800,1.0
+John Boltes,do,do,do,$700.00,Kentucky,0,700,1.0
+Henry T. Hengebold,do,do,do,$600.00,Kentucky,0,600,1.0
+A. H. Todd,do,do,Cynthiana,$150.00,Kentucky,0,150,1.0
+Augustus Jost,do,do,Danville,$250.00,Kentucky,0,250,1.0
+Emma McGinnis,do,do,Elizabethtown,$150.00,Kentucky,0,150,1.0
+E. Helm,do,do,do,$250.00,Kentucky,0,250,1.0
+Ernest Clarke,do,do,Falmouth,$150.00,Kentucky,0,150,1.0
+Thomas J. Biglan,do,do,Frankfort,$700.00,Kentucky,0,700,1.0
+Jacob W. Solomon,New York,do,do,$600.00,Kentucky,0,600,1.0
+Lawrence A. Went,Kentucky,do,do,$200.00,Kentucky,0,200,1.0
+Miss Emma Strait,do,do,Franklin,$150.00,Kentucky,0,150,1.0
+Miss Lillie D. Armitage,do,do,Frenchburgh,$140.00,Kentucky,0,140,1.0
+Miss Laura L. Taylor,do,do,Fulton,$100.00,Kentucky,0,100,1.0
+Joseph H. Holbrook,do,do,Georgetown,$200.00,Kentucky,0,200,1.0
+Miss Emma R. Smith,do,do,Glasgow,$200.00,Kentucky,0,200,1.0
+Mrs. Martin V. Taylor,do,do,Greenburgh,$75.00,Kentucky,0,75,1.0
+Richard M. Shaw,do,do,Harris,$75.00,Kentucky,0,75,1.0
+Perry J. Sanders,do,do,Harrodsburgh,$300.00,Kentucky,0,300,1.0
+Mrs. Lulu Baird,do,do,Hartford,$100.00,Kentucky,0,100,1.0
+B. W. Combs,do,do,Hazard,$100.00,Kentucky,0,100,1.0
+J. D. Wallbridge,do,do,Henderson,$700.00,Kentucky,0,700,1.0
+Owen R. Miller,do,do,do,$200.00,Kentucky,0,200,1.0
+Mrs. Clara Thomas,do,do,Hickman,$75.00,Kentucky,0,75,1.0
+James W. Crain,do,do,Hillsborough,$75.00,Kentucky,0,75,1.0
+J. R. McCarroll,do,do,Hopkinsville,$315.00,Kentucky,0,315,1.0
+W. D. Ennis, Jr.,do,do,do,$250.00,"Kentucky,0",do,1.0
+W. D. Richardson,do,do,Irvine,$150.00,Kentucky,0,150,1.0
+G. D. Peacock,do,do,Lancaster,$200.00,Kentucky,0,200,1.0
+Ira R. Hazeman,do,do,Lawrenceburgh,$150.00,Kentucky,0,150,1.0
+J. P. Mahoney,do,do,Lebanon,$250.00,Kentucky,0,250,1.0
+L. L. Spalding, Jr.,do,do,do,$150.00,"Kentucky,0",do,1.0
+H. C. Swift,do,do,Lexington,$1000.00,Kentucky,0,1000,1.0
+J. W. Chesney,do,do,do,$1000.00,Kentucky,0,1000,1.0
+J. H. Warfield,do,do,do,$750.00,Kentucky,0,750,1.0
+George L. Robertson,do,do,do,$750.00,Kentucky,0,750,1.0
+Thomas P. Ingram,do,do,do,$450.00,Kentucky,0,450,1.0
+Mrs. Alice E. Jackson,do,do,London,$150.00,Kentucky,0,150,1.0
+H. C. Sullivan,do,do,do,$75.00,Kentucky,0,75,1.0
+Enos S. Tuley,Indiana,do,Louisville,$2300.00,Kentucky,0,2300,1.0
+Charles P. Weaver,Kentucky,do,do,$1700.00,Kentucky,0,1700,1.0
+Richard R. Carahan,do,do,do,$1500.00,Kentucky,0,1500,1.0
+Samuel R. Harris,do,do,do,$1200.00,Kentucky,0,1200,1.0
+William R. Ray,do,do,do,$1200.00,Kentucky,0,1200,1.0
+Delzier Moxley,do,do,do,$1200.00,Kentucky,0,1200,1.0
+Lewis M. Hamel,do,do,do,$1200.00,Kentucky,0,1200,1.0
+Thomas R. Mullikin,do,do,do,$1000.00,Kentucky,0,1000,1.0
+Henry A. Chittenden,do,do,do,$1000.00,Kentucky,0,1000,1.0
+John H. Strassburg,Germany,do,do,$1000.00,Kentucky,0,1000,1.0
+Wesley H. Sheppard,Kentucky,do,do,$950.00,Kentucky,0,950,1.0
+Orion C. Martin,Ohio,Nebraska,Nebraska City,$850.00,Nebraska,0,850,1.0
+Wylie L. Jones,Illinois,do,Neligh,$100.00,Nebraska,0,100,1.0
+Mrs. Jane E. Gorton,New York,do,Niobrara,$200.00,Nebraska,0,200,1.0
+Ed. S. Holt,Connecticut,do,Norfolk,$150.00,Nebraska,0,150,1.0
+O. A. Bacon,Michigan,do,North Platte,$100.00,Nebraska,0,100,1.0
+Miss L. M. Wirt,Iowa,do,do,$100.00,Nebraska,0,100,1.0
+Miss Emma Peck,Missouri,do,Oakdale,$100.00,Nebraska,0,100,1.0
+James L. Woodard,Michigan,do,Omaha,$1500.00,Nebraska,0,1500,1.0
+William Brown,Indiana,do,do,$700.00,Nebraska,0,700,1.0
+Victor Bruso,do,do,do,$650.00,Nebraska,0,650,1.0
+Thomas S. Crodier,Massachusetts,do,do,$900.00,Nebraska,0,900,1.0
+Emanuel S. Clomberg,District of Columbia,do,do,$800.00,Nebraska,0,800,1.0
+Thomas H. Douglass,Nebraska,do,do,$500.00,Nebraska,0,500,1.0
+William W. Connoran,Michigan,do,do,$600.00,Nebraska,0,600,1.0
+Miss Viola Collin,Indiana,do,do,$700.00,Nebraska,0,700,1.0
+L. A. Dorrah,Ohio,do,do,$600.00,Nebraska,0,600,1.0
+Thomas B. Ellingwood,Massachusetts,do,do,$1100.00,Nebraska,0,1100,1.0
+Matthew J. Freeborn,Indiana,do,do,$600.00,Nebraska,0,600,1.0
+Charles J. Gregg,Illinois,do,do,$800.00,Nebraska,0,800,1.0
+Miss Emma Kruite,New York,do,do,$700.00,Nebraska,0,700,1.0
+Charles W. Katten,Germany,do,do,$500.00,Nebraska,0,500,1.0
+John Lyckholm,Sweden,do,do,$1000.00,Nebraska,0,1000,1.0
+Alfred Linder,Nebraska,do,do,$900.00,Nebraska,0,900,1.0
+Loyal S. Maler,Michigan,do,do,$750.00,Nebraska,0,750,1.0
+Oloff Nordwall,Sweden,do,do,$450.00,Nebraska,0,450,1.0
+Alfred M. Oleson,Norway,do,do,$700.00,Nebraska,0,700,1.0
+Frederick W. Pickens,Michigan,do,do,$800.00,Nebraska,0,800,1.0
+John H. Platz,Denmark,do,do,$1000.00,Nebraska,0,1000,1.0
+Charles P. Southall,Indiana,do,do,$700.00,Nebraska,0,700,1.0
+Miss Belle Scott,Nebraska,do,do,$500.00,Nebraska,0,500,1.0
+Cornelius J. Sullivan,Massachusetts,do,do,$1200.00,Nebraska,0,1200,1.0
+Frank A. White,New York,do,do,$700.00,Nebraska,0,700,1.0
+Bert A. Wilkinson,Iowa,do,do,$500.00,Nebraska,0,500,1.0
+James D. Murphy,Pennsylvania,do,do,$750.00,Nebraska,0,750,1.0
+Myron E. Wheeler,Wisconsin,do,O'Neill,$250.00,Nebraska,0,250,1.0
+Charles E. Fairbank,Michigan,do,Ord,$150.00,Nebraska,0,150,1.0
+Miss Eunice M. Robbins,Wisconsin,do,Orleans,$75.00,Nebraska,0,75,1.0
+Miss Emma R. Evans,Pennsylvania,do,do,$75.00,Nebraska,0,75,1.0
+John S. Seligren,Sweden,do,Phelps,$75.00,Nebraska,0,75,1.0
+William H. Piles,Nebraska,do,Plattsmouth,$500.00,Nebraska,0,500,1.0
+Robert J. McKnight,Scotland,do,Plumb Creek,$350.00,Nebraska,0,350,1.0
+Mrs. Nancy Mohr,Ohio,do,Ponca,$150.00,Nebraska,0,150,1.0
+Miss Clara McMillon,West Virginia,do,Red Cloud,$300.00,Nebraska,0,300,1.0
+Miss Estelle C. Marsh,Nebraska,do,do,$100.00,Nebraska,0,100,1.0
+Mrs. Edna Fones,Rhode Island,do,Saint Paul,$300.00,Nebraska,0,300,1.0
+Henry Stuart,Michigan,do,Schuyler,$250.00,Nebraska,0,250,1.0
+P. A. Van Pelt,Ohio,do,Seward,$150.00,Nebraska,0,150,1.0
+John Brennan,Pennsylvania,do,Sidney,$100.00,Nebraska,0,100,1.0
+A. M. McFarland,Indiana,do,Stanton,$90.00,Nebraska,0,90,1.0
+John H. Ager,Ohio,do,Stromsburg,$100.00,Nebraska,0,100,1.0
+Miss Julia F. Carlock,Missouri,do,Table Rock,$150.00,Nebraska,0,150,1.0
+Edgar D. Wright,Nebraska,do,Tecumseh,$200.00,Nebraska,0,200,1.0
+Mrs. Mollie A. Boulware,Indiana,do,Valentine,$100.00,Nebraska,0,100,1.0
+Joseph N. Davis,do,do,Wahoo,$300.00,Nebraska,0,300,1.0
+Miss Gertie O'Sullivan,Nebraska,do,West Point,$300.00,Nebraska,0,300,1.0
+W. D. Patterson,New York,do,Wymore,$100.00,Nebraska,0,100,1.0
+Charles W. Kaley,Indiana,do,do,$150.00,Nebraska,0,150,1.0
+C. Lynd Cowan,Illinois,do,York,$100.00,Nebraska,0,100,1.0
+V. G. Wrightman,New York,do,do,$100.00,Nebraska,0,100,1.0
+Milla B. Newell,,,do,do,$200.00,"Nebraska,0",do,1.0
+Jabez Henlett,England,Nevada,Aurora,$100.00,Nevada,0,100,1.0
+Timothy O'Connell,Louisiana,do,Austin,$250.00,Nevada,0,250,1.0
+R.S. Rodman,Rhode Island,do,Carson City,$800.00,Nevada,0,800,1.0
+Quincy W. Hall,New York,do,Elko,$400.00,Nevada,0,400,1.0
+George A. Bartlett,California,do,Eureka,$1000.00,Nevada,0,1000,1.0
+W.S. Cox,Nevada,do,Genoa,$100.00,Nevada,0,100,1.0
+John Miller,do,do,Hawthorne,$200.00,Nevada,0,200,1.0
+Miss M. Ferrara,Italy,do,Mill City,$150.00,Nevada,0,150,1.0
+Thomas H. Jewell,California,do,Pioche,$100.00,Nevada,0,100,1.0
+Lizzie Jamison,do,do,Reno,$800.00,Nevada,0,800,1.0
+John H. Dole,England,do,Saint Thomas,$70.00,Nevada,0,70,1.0
+John S.Orndoff,Ohio,do,Virginia City,$600.00,Nevada,0,600,1.0
+Harry L. Lund,California,do,do,$400.00,Nevada,0,400,1.0
+Mrs. Belle Perkins,Nevada,do,Winnemucca,$200.00,Nevada,0,200,1.0
+Levi W. Wyman,Canada,New Hampshire,Berlin Falls,$100.00,New Hampshire,0,100,1.0
+Aaron B. Pray,New Hampshire,do,Bristol,$300.00,New Hampshire,0,300,1.0
+George E. Waleott,do,do,Claremont,$100.00,New Hampshire,0,100,1.0
+Sylvester E. Jewett,Vermont,do,do,$100.00,New Hampshire,0,100,1.0
+George E. Chesley,New Hampshire,do,Concord,$1150.00,New Hampshire,0,1150,1.0
+William W. Elkin,New York,do,do,$500.00,New Hampshire,0,500,1.0
+Charles W. Lane,New Hampshire,do,do,$500.00,New Hampshire,0,500,1.0
+William J. Leighton,do,do,do,$600.00,New Hampshire,0,600,1.0
+Byron Moore,do,do,do,$550.00,New Hampshire,0,550,1.0
+William N. Nutter,do,do,do,$500.00,New Hampshire,0,500,1.0
+J. D. Townsend Jr.,New Hampshire,New Hampshire,Dover,$600.00,New Hampshire,0,600,1.0
+S. C. Lord,do,do,do,$500.00,New Hampshire,0,500,1.0
+J. H. McDuffee,do,do,do,$450.00,New Hampshire,0,450,1.0
+D. S. Ward,do,do,Exeter,$420.00,New Hampshire,0,420,1.0
+William S. Haselton,do,do,Farmington,$700.00,New Hampshire,0,700,1.0
+Mrs. Hester A. Parker,do,do,Gorham,$100.00,New Hampshire,0,100,1.0
+Miss Mary T. Stiles,do,do,Greenfield,$150.00,New Hampshire,0,150,1.0
+Miss Winnie L. Harmon,do,do,do,$50.00,New Hampshire,0,50,1.0
+Frederick W. Duncklee,do,do,Hooksett,$175.00,New Hampshire,0,175,1.0
+Clarence M. Guernsey,do,do,Keene,$600.00,New Hampshire,0,600,1.0
+Miss Nellie E. Wheeler,do,do,do,$350.00,New Hampshire,0,350,1.0
+Fred B. Kimball,do,do,do,$50.00,New Hampshire,0,50,1.0
+Arthur W. Quinn,do,do,Lebanon,$500.00,New Hampshire,0,500,1.0
+Simon H. Hayes,do,do,do,$300.00,New Hampshire,0,300,1.0
+Herbert T. Houghton,do,do,Lisbon,$90.00,New Hampshire,0,90,1.0
+Mrs. Alice W. Kimball,do,do,Littleton,$100.00,New Hampshire,0,100,1.0
+M. D. Mason,do,do,do,$150.00,New Hampshire,0,150,1.0
+Miss Jennie Smith,do,do,Manchester,$600.00,New Hampshire,0,600,1.0
+Theron A. Tarr,do,do,do,$600.00,New Hampshire,0,600,1.0
+Harry H. Burpee,Massachusetts,do,do,$250.00,New Hampshire,0,250,1.0
+Thomas A. Collins,New Hampshire,do,do,$250.00,New Hampshire,0,250,1.0
+Hattie M. Gould,do,do,do,$600.00,New Hampshire,0,600,1.0
+William J. Gavin,do,do,do,$400.00,New Hampshire,0,400,1.0
+George M. L. Lane,do,do,Nashua,$1000.00,New Hampshire,0,1000,1.0
+John A. Sheehan,do,do,do,$550.00,New Hampshire,0,550,1.0
+John T. Spofford,do,do,do,$500.00,New Hampshire,0,500,1.0
+Roger G. Sullivan,Connecticut,do,do,$250.00,New Hampshire,0,250,1.0
+Paul O. Giddings,New Hampshire,do,do,$300.00,New Hampshire,0,300,1.0
+George E. Clarkson,Vermont,do,Newport,$225.00,New Hampshire,0,225,1.0
+Andrew F. Rollins,New Hampshire,do,do,$163.00,New Hampshire,0,163,1.0
+Miss M. C. J. Bowen,do,do,Pittsfield,$150.00,New Hampshire,0,150,1.0
+Miss Mary E. Emmons,do,do,Portsmouth,$1100.00,New Hampshire,0,1100,1.0
+Miss Martha A. Dudley,Massachusetts,do,do,$700.00,New Hampshire,0,700,1.0
+Mrs T. Kelley,New Hampshire,do,do,$600.00,New Hampshire,0,600,1.0
+Albert H. Simes,do,do,do,$500.00,New Hampshire,0,500,1.0
+Frederick E. Church,do,do,Rochester,$400.00,New Hampshire,0,400,1.0
+Harry C. Boynton,do,do,Rye Beach,$100.00,New Hampshire,0,100,1.0
+Alfred G. Maddock,do,do,Tilton,$450.00,New Hampshire,0,450,1.0
+John S. Kimball,do,do,Wolfborough,$100.00,New Hampshire,0,100,1.0
+Frank B. Jenness,do,do,,,New Hampshire,0,,1.0
+Thomas E. Fletcher,do,do,,,New Hampshire,0,,1.0
+Elisha Goodwin,,,Asbury Park,$150.00,New Jersey,0,150,1.0
+Samuel A. Clivreo,New Jersey,New Jersey,do,$150.00,New Jersey,0,150,1.0
+John W. Crowell,New York,do,do,$100.00,New Jersey,0,100,1.0
+Harvey Bergen,New Jersey,do,do,$100.00,New Jersey,0,100,1.0
+F. Peyton Woolston,do,do,do,$100.00,New Jersey,0,100,1.0
+Harry Harvey,do,do,do,$100.00,New Jersey,0,100,1.0
+Mrs. C. F. Leland,do,do,Atlantic City,$755.00,New Jersey,0,755,1.0
+Charles C. Leland,do,do,do,$600.00,New Jersey,0,600,1.0
+Lemuel E. Conover,do,do,do,$590.00,New Jersey,1,590,1.0
+Charles W. Bolte,do,do,do,p.m. 50.00,New Jersey,1,p.m. 50.00,1.0
+Eugene McGuire,do,do,do,p.m. 137.00,New Jersey,1,p.m. 137.00,1.0
+Harrold G. Adams,do,do,do,p.m. 29.60,New Jersey,1,p.m. 29.60,1.0
+John M. Barley,do,do,Bergen Point,p.m. 25.00,New Jersey,1,p.m. 25.00,1.0
+John A. Hewitt,do,Pennsylvania,do,$400.00,New Jersey,0,400,1.0
+Miss Lillie A. Hughes,Massachusetts,New Jersey,Bordentown,$400.00,New Jersey,0,400,1.0
+Miss Katie Swink,Pennsylvania,do,do,$600.00,New Jersey,0,600,1.0
+Thomas Stafford,New Jersey,do,Bridgeton,$250.00,New Jersey,0,250,1.0
+Miss Mary R. Mershon,do,do,do,$180.00,New Jersey,0,180,1.0
+Elwood Hubbs,do,do,Burlington,$180.00,New Jersey,0,180,1.0
+Jonas Paullin,do,do,do,$180.00,New Jersey,0,180,1.0
+Miss Nan A. Latta,do,do,Camden,$1100.00,New Jersey,0,1100,1.0
+Miss Lizzie Richardson,do,do,do,$350.00,New Jersey,0,350,1.0
+Miss Lizzie Ranier,Pennsylvania,do,do,$600.00,New Jersey,0,600,1.0
+Frank L. Vinton,do,do,do,$600.00,New Jersey,0,600,1.0
+William H. Amble,New Jersey,do,do,$450.00,New Jersey,0,450,1.0
+Richard Daly,Pennsylvania,do,do,$200.00,New Jersey,0,200,1.0
+Daniel M. Hassett,New Jersey,do,Dover,$700.00,New Jersey,0,700,1.0
+Frederick D. Pitman,Pennsylvania,do,East Orange,$750.00,New Jersey,0,750,1.0
+John A. Ward,New Jersey,do,do,$540.00,New Jersey,0,540,1.0
+W. B. Byram,do,do,do,$255.00,New Jersey,0,255,1.0
+John O'Hagan Jr,do,do,Elizabeth,$1100.00,New Jersey,0,1100,1.0
+John Stout,do,do,do,$600.00,New Jersey,0,600,1.0
+Charles E. Lum,do,do,do,$550.00,New Jersey,0,550,1.0
+Jacob D. E. Ritter,do,do,do,$850.00,New Jersey,0,850,1.0
+John Duprez,Virginia,do,Flemington,$200.00,New Jersey,0,200,1.0
+John C. Lowe,New Jersey,do,Freehold,$405.00,New Jersey,0,405,1.0
+Michael J. McCormack,do,New York,Hackettstown,$250.00,New Jersey,0,250,1.0
+Miss Jennie Hanson,do,New Jersey,Hoboken,$550.00,New Jersey,0,550,1.0
+William P. Mapps,do,do,do,$750.00,New Jersey,0,750,1.0
+Mrs. Kate B. Hazen,Connecticut,do,do,$500.00,New Jersey,0,500,1.0
+George W. White,New Jersey,do,do,$500.00,New Jersey,0,500,1.0
+Philip Kinsfather,do,do,Jersey City,$1200.00,New Jersey,0,1200,1.0
+Tyler Parmenter,New York,do,do,$1100.00,New Jersey,0,1100,1.0
+Michael M. Byer,New Jersey,do,,,New Jersey,0,,1.0
+John D. Board,New York,,,,,0,,1.0
+William J. Cox,,,,,,",0",,1.0
+Edward F Carman,New York,New Jersey,Trenton,$820.00,New Jersey,0,820.0,1.0
+Charles S Budd,do,do,do,$720.00,New Jersey,0,720.0,1.0
+Miss M R Kuntze,New Jersey,do,do,$570.00,New Jersey,0,570.0,1.0
+Frank Heald,do,do,do,$600.00,New Jersey,0,600.0,1.0
+William C Alpaugh,do,do,do,$650.00,New Jersey,0,650.0,1.0
+William E Green,do,Michigan,Tuckerton,$500.00,New Jersey,0,500.0,1.0
+Mrs Eliza E Stedman,Ohio,New Jersey,Vineland,$70.00,New Jersey,0,70.0,1.0
+Libby Robinson,New Jersey,do,Vincentown,$720.00,New Jersey,0,720.0,1.0
+J M Peacock Jr,do,do,Washington,$100.00,New Jersey,0,100.0,1.0
+Theodore B Dawes,do,do,West End,$100.00,New Jersey,0,100.0,1.0
+William Skinner,Alabama,do,Woodbury,$322.06,New Jersey,0,322.0,1.0
+W A Newell,do,do,do,$323.00,New Jersey,0,323.0,1.0
+J Frank Brewer,do,do,,,$720.00,0,,1.0
+Morton Haley,,,,,,"$600.00,0",,1.0
+Mrs Eva Wemer,Arizona,New Mexico,Albuquerque,$720.00,New Mexico,0,720.0,1.0
+John L Ott,Missouri,do,do,$600.00,New Mexico,0,600.0,1.0
+Mrs M S Walker,Louisiana,do,Barranca,$120.00,New Mexico,0,120.0,1.0
+Mrs Mary E Mitchell,Indiana,do,Cimarron,$50.00,New Mexico,0,50.0,1.0
+Thomas J Walton,do,do,Deming,$100.00,New Mexico,0,100.0,1.0
+Jacob F Angee,Virginia,do,Enplando,$200.00,New Mexico,0,200.0,1.0
+Miss Eliza Lopez,New Mexico,do,Espanola,$100.00,New Mexico,0,100.0,1.0
+E Bond,Canada,do,Fort Stanton,$100.00,New Mexico,0,100.0,1.0
+Winfield S Cobeau,Ohio,do,Fort Union,$100.00,New Mexico,0,100.0,1.0
+Charles W Gross,Maryland,do,Lamy,$500.00,New Mexico,0,500.0,1.0
+Miss Marion Edwards,Indiana,Colorado,Las Vegas,$200.00,New Mexico,0,200.0,1.0
+Harry Ruffner,Colorado,New Mexico,La Luz,$150.00,New Mexico,0,150.0,1.0
+Crescencio Gallegos,New Mexico,do,Lordsburg,$100.00,New Mexico,0,100.0,1.0
+Mrs Mary E Miller,Missouri,do,San Antonio,$1200.00,New Mexico,0,1200.0,1.0
+Mrs Mary E Hilton,Iowa,do,Santa Fe,$600.00,New Mexico,0,600.0,1.0
+Simon Nusbaum,Pennsylvania,do,do,$400.00,New Mexico,0,400.0,1.0
+Robert W Fisher,Colorado,do,Silver City,$200.00,New Mexico,0,200.0,1.0
+Henry William Lucas,Pennsylvania,do,Socorro,$100.00,New Mexico,0,100.0,1.0
+Ed Fortune,New Mexico,do,Springer,$200.00,New Mexico,0,200.0,1.0
+Epifanio Ledoux,Missouri,do,Watrous,,New Mexico,0,,1.0
+Ed Knox,,,,,,"$200.00,0",,1.0
+Gilbert C Fox,New York,New York,Adams,$200.00,New York,0,200.0,1.0
+William O'Connor,Pennsylvania,do,Albany,$2500.00,New York,0,2500.0,1.0
+Isaac McMurdy,New York,do,do,$1200.00,New York,0,1200.0,1.0
+Thomas H Wilbur,do,do,do,$1300.00,New York,0,1300.0,1.0
+Abram D Sandford,do,do,do,$1200.00,New York,0,1200.0,1.0
+Charles A Farrell,do,do,do,$1100.00,New York,0,1100.0,1.0
+John A Gallagher,do,do,do,$720.00,New York,0,720.0,1.0
+James Hillson Jr,do,do,do,$720.00,New York,0,720.0,1.0
+Frank T Gray,do,do,do,$720.00,New York,0,720.0,1.0
+John F Mullen,do,do,do,$860.00,New York,0,860.0,1.0
+Eugene McCarthy,do,do,do,$720.00,New York,0,720.0,1.0
+John R Haydon,do,do,do,$600.00,New York,0,600.0,1.0
+Charles W Hallenbeck,do,do,do,$1100.00,New York,0,1100.0,1.0
+James L Devlin,do,do,do,$900.00,New York,0,900.0,1.0
+William Merrifield,do,do,do,$660.00,New York,0,660.0,1.0
+Robert J Roberts,do,do,do,$600.00,New York,0,600.0,1.0
+Randall H Roberts,do,do,do,$1100.00,New York,0,1100.0,1.0
+Richard S Smith,do,do,do,$900.00,New York,0,900.0,1.0
+John R Hilton,do,do,do,$720.00,New York,0,720.0,1.0
+John C Dempsy,do,do,do,$1000.00,New York,0,1000.0,1.0
+James L Acker,do,do,do,$720.00,New York,0,720.0,1.0
+John E Benjamin,do,do,do,$1120.00,New York,0,1120.0,1.0
+Frances H Devine,do,do,do,$860.00,New York,0,860.0,1.0
+Robert H McCormic,do,do,do,$900.00,New York,0,900.0,1.0
+Lloyd T Ralphs,do,do,do,$850.00,New York,0,850.0,1.0
+Peter H Laurie,do,do,do,$800.00,New York,0,800.0,1.0
+Andrus H Hodding,do,do,do,$950.00,New York,0,950.0,1.0
+Michael F Downs,do,do,do,$800.00,New York,0,800.0,1.0
+Christopher R Becker,do,do,do,$1000.00,New York,0,1000.0,1.0
+Thomas H O'Brien,England,do,do,$860.00,New York,0,860.0,1.0
+Morris Goodman,New York,do,do,$900.00,New York,0,900.0,1.0
+Patrick J Redmond,do,do,do,$1400.00,New York,0,1400.0,1.0
+John E Stewart,do,do,do,$1000.00,New York,0,1000.0,1.0
+Patrick E McKee,do,do,do,$720.00,New York,0,720.0,1.0
+Francis H McHugh,do,do,do,$1200.00,New York,0,1200.0,1.0
+Edward J Murphy,do,do,do,$850.00,New York,0,850.0,1.0
+Andrew G Sealman,Germany,do,do,$600.00,New York,0,600.0,1.0
+J O Hermon Loeper,New York,do,do,$750.00,New York,0,750.0,1.0
+Charles H Zeilman,do,do,do,$650.00,New York,0,650.0,1.0
+Napoleon B Chapman,Ireland,do,do,$650.00,New York,0,650.0,1.0
+William Looney,do,do,Albion,$800.00,New York,0,800.0,1.0
+Walter J Shields,do,do,Amenia,$600.00,New York,0,600.0,1.0
+Cornelius Coyle,New York,do,Amsterdam,$720.00,New York,0,720.0,1.0
+Charles A Brown,do,do,do,$600.00,New York,0,600.0,1.0
+Mrs Mary C Brompton,Massachusetts,do,do,$600.00,New York,0,600.0,1.0
+George Maxwell,New York,do,do,$600.00,New York,0,600.0,1.0
+Reuben S Blood,do,do,,,0,,,0.8571428571428571
+Leonard Wasserman,do,do,,,0,,,0.8571428571428571
+Miss Lena Lowenstein,,,,,0,,,0.8571428571428571
+Isaac H. Williams,New York,Pennsylvania,Meadville,$150.00,Pennsylvania,0,150,1.0
+Mack Collins,Pennsylvania,do,do,$250.00,Pennsylvania,0,250,1.0
+Herbert Borell,do,do,do,$180.00,Pennsylvania,0,180,1.0
+Major Ormsby,do,do,Mercer,$400.00,Pennsylvania,0,400,1.0
+D. M. Elliott,do,do,Meyersburgh,$100.00,Pennsylvania,0,100,1.0
+Cornelius Lefferts,do,do,Middletown,$100.00,Pennsylvania,0,100,1.0
+William H. Miller,do,do,Millersburg,$200.00,Pennsylvania,0,200,1.0
+James A. Titzell,do,do,Millerstown,$80.00,Pennsylvania,0,80,1.0
+W. W. Clark,do,do,Mill Hall,$75.00,Pennsylvania,0,75,1.0
+Miss Nettie V. Stout,do,do,Milton,$150.00,Pennsylvania,0,150,1.0
+Miss Camilla Dickey,do,do,Minersville,$200.00,Pennsylvania,0,200,1.0
+William C. Cox,do,do,Montrose,$400.00,Pennsylvania,0,400,1.0
+Miss Annie H. Barnhart,do,do,do,$270.00,Pennsylvania,0,270,1.0
+Miss Mattie Hayner,Illinois,do,Monongahela City,$150.00,Pennsylvania,0,150,1.0
+J. H. Pile,Pennsylvania,do,Monroe,$75.00,Pennsylvania,0,75,1.0
+Miss Bessie McAdams,do,do,Mount Pleasant,$100.00,Pennsylvania,0,100,1.0
+Miss Lizzie G. Ross,do,do,Mount Union,$90.00,Pennsylvania,0,90,1.0
+F. W. Culbertson,do,do,New Castle,$75.00,Pennsylvania,0,75,1.0
+P. A. Schultz,Ohio,do,do,$450.00,Pennsylvania,0,450,1.0
+A. R. Henry,Pennsylvania,do,do,$450.00,Pennsylvania,0,450,1.0
+S. F. Eagan,do,do,do,$250.00,Pennsylvania,0,250,1.0
+Mrs. Isabelle J. Matthews,do,do,New Hope,$250.00,Pennsylvania,0,250,1.0
+Mrs. Mary S. Zahn,do,do,Newport,$300.00,Pennsylvania,0,300,1.0
+William S. McDannell,do,do,Newville,$200.00,Pennsylvania,0,200,1.0
+W. T. Hillborn,do,do,Newtown,$100.00,Pennsylvania,0,100,1.0
+William Acker,do,do,Norristown,$900.00,Pennsylvania,0,900,1.0
+Frank Sheriff,do,do,do,$150.00,Pennsylvania,0,150,1.0
+Samuel S. Harbaum,do,do,do,$150.00,Pennsylvania,0,150,1.0
+Park G. Porter,do,do,Oil City,$800.00,Pennsylvania,0,800,1.0
+Miss S. G. Snowden,do,do,do,$600.00,Pennsylvania,0,600,1.0
+Robert C. Jack,do,do,do,$410.00,Pennsylvania,0,410,1.0
+Miss Mamie Mahon,do,do,Olyphant,$75.00,Pennsylvania,0,75,1.0
+Miss Annie R. Smith,Maryland,do,Oxford,$150.00,Pennsylvania,0,150,1.0
+Mrs. E. M. Bracken,Pennsylvania,do,Parker's Landing,$200.00,Pennsylvania,0,200,1.0
+J. F. Spahr,do,do,Parkersburgh,$45.00,Pennsylvania,0,45,1.0
+Miss Kate Carlin,New York,do,Petrolia,$75.00,Pennsylvania,0,75,1.0
+J. S. Willert,Pennsylvania,do,Petroleum Centre,$78.00,Pennsylvania,0,78,1.0
+Edward W. Alexander,do,do,Philadelphia,$3000.00,Pennsylvania,0,3000,1.0
+Charles Adams,Pennsylvania,do,do,$1100.00,Pennsylvania,0,1100,1.0
+George W. Ashburst,do,do,do,$1000.00,Pennsylvania,0,1000,1.0
+Isaac L. Anderson,do,do,do,$600.00,Pennsylvania,0,600,1.0
+Joseph H. Atherholt,do,do,do,$850.00,Pennsylvania,0,850,1.0
+David Andrews,do,do,do,$800.00,Pennsylvania,0,800,1.0
+Robert M. Adger,North Carolina,do,do,$600.00,Pennsylvania,0,600,1.0
+Frank B. Abbott,Pennsylvania,do,do,$2400.00,Pennsylvania,0,2400,1.0
+David Armhold,do,do,do,$900.00,Pennsylvania,0,900,1.0
+John Barclay,do,do,do,$1060.00,Pennsylvania,0,1060,1.0
+Robert H. Beatty,do,do,do,$1500.00,Pennsylvania,0,1500,1.0
+William A. Boyle,do,do,do,$1000.00,Pennsylvania,0,1000,1.0
+Mrs. Kate A. Bankson,do,do,do,$800.00,Pennsylvania,0,800,1.0
+Colin Buckley,England,do,do,$1000.00,Pennsylvania,0,1000,1.0
+Joseph E. Brennan,Pennsylvania,do,do,$800.00,Pennsylvania,0,800,1.0
+Charles H. Brooke,do,do,do,$950.00,Pennsylvania,0,950,1.0
+Robert A. Boyd,do,do,do,$800.00,Pennsylvania,0,800,1.0
+Howard Bruce,do,do,do,$800.00,Pennsylvania,0,800,1.0
+Harry C. Blake,do,do,do,$850.00,Pennsylvania,0,850,1.0
+Thomas J. Barnard,do,do,do,$800.00,Pennsylvania,0,800,1.0
+John F. Beckelbech,Pennsylvania,do,do,$950.00,Pennsylvania,0,950,1.0
+Joseph H. Batt,do,do,do,$800.00,Pennsylvania,0,800,1.0
+Miss Sarah Brooks,do,do,do,$250.00,Pennsylvania,0,250,1.0
+Miss Mary E. Bradley,New York,do,do,$900.00,Pennsylvania,0,900,1.0
+Albert F. Burke,Pennsylvania,do,do,$850.00,Pennsylvania,0,850,1.0
+John A. Brophy,do,do,do,$800.00,Pennsylvania,0,800,1.0
+Joseph L. Bates,do,do,do,$1000.00,Pennsylvania,0,1000,1.0
+John Brady,Delaware,do,do,$500.00,Pennsylvania,0,500,1.0
+James Bellem,Germany,do,do,$1100.00,Pennsylvania,0,1100,1.0
+Lowen E. Best,Massachusetts,do,do,$950.00,Pennsylvania,0,950,1.0
+Jesse A. Belin,do,do,do,$1000.00,Pennsylvania,0,1000,1.0
+Charles F. Brubaker,Pennsylvania,do,do,$800.00,Pennsylvania,0,800,1.0
+James F. Bannon,New Jersey,do,do,$800.00,Pennsylvania,0,800,1.0
+Frederick Bange,Pennsylvania,do,do,$600.00,Pennsylvania,0,600,1.0
+James C. Bigley,do,do,do,$800.00,Pennsylvania,0,800,1.0
+George B. M. Boyd,do,do,do,$700.00,Pennsylvania,0,700,1.0
+Matthew F. Boggs,do,do,do,$1000.00,Pennsylvania,0,1000,1.0
+Joseph T. Byrnes,do,do,do,$800.00,Pennsylvania,0,800,1.0
+Thomas Bradley,do,do,do,$600.00,Pennsylvania,0,600,1.0
+Richard L. Barry,do,do,do,$800.00,Pennsylvania,0,800,1.0
+Samuel Broom,do,do,do,$800.00,Pennsylvania,0,800,1.0
+George Brandle,do,do,do,$850.00,Pennsylvania,0,850,1.0
+Joseph E. Beckham,do,do,do,$800.00,Pennsylvania,0,800,1.0
+Jeremiah Buckley,do,do,do,$800.00,Pennsylvania,0,800,1.0
+John L. Brennan,do,do,do,$800.00,Pennsylvania,0,800,1.0
+Mark Connell,do,do,do,$800.00,Pennsylvania,0,800,1.0
+Monteray F. Claridge,do,do,do,$1500.00,Pennsylvania,0,1500,1.0
+Thomas M. Coleman,Jr,Maryland,do,do,$1100.00,"Pennsylvania,0",do,1.0
+Samuel Croft,New York,do,do,$1000.00,Pennsylvania,0,1000,1.0
+Edwin F. Cocker,Pennsylvania,do,do,$800.00,Pennsylvania,0,800,1.0
+Alfred H. Cox,Ohio,do,do,$1000.00,Pennsylvania,0,1000,1.0
+John S. Culbertson,do,do,do,$700.00,Pennsylvania,0,700,1.0
+Miss E. S. Everhard,Wisconsin,Wisconsin,Ripon,$450.00,Wisconsin,0,450,1.0
+H. H. Loomer,do,do,do,$20.00,Wisconsin,0,20,1.0
+Miss Dora Blanding,do,do,Saint Croix Falls,$100.00,Wisconsin,0,100,1.0
+H. C. French,do,do,Shawano,$125.00,Wisconsin,0,125,1.0
+Reginald C. Zillier,do,do,Sheboygan,$480.00,Wisconsin,0,480,1.0
+Henry B. Stein,Germany,do,do,$480.00,Wisconsin,0,480,1.0
+Miss Beatrice Zillier,Wisconsin,do,do,$300.00,Wisconsin,0,300,1.0
+P. L. Perrot,do,do,Sparta,$400.00,Wisconsin,0,400,1.0
+Miss Anna B. Hunt,do,do,Sturgeon Bay,$216.00,Wisconsin,0,216,1.0
+Mrs. Annie M. Allen,do,do,Stoughton,$184.00,Wisconsin,0,184,1.0
+Fred. E. Perry,do,do,Tomah,$200.00,Wisconsin,0,200,1.0
+Miss Ella F. Comine,New York,do,Two Rivers,$100.00,Wisconsin,0,100,1.0
+Frank J. Bohn,Iowa,do,Viroqua,$200.00,Wisconsin,0,200,1.0
+Miss Nellie Howell,Wisconsin,do,Watertown,$400.00,Wisconsin,0,400,1.0
+William J. Kehoe,do,do,do,$300.00,Wisconsin,0,300,1.0
+Eugene Killian,do,do,do,$200.00,Wisconsin,0,200,1.0
+J. R. Christoph,Germany,do,Waukesha,$300.00,Wisconsin,0,300,1.0
+Edward R. Carrigan,Missouri,do,do,$312.00,Wisconsin,0,312,1.0
+Peter Doyle,Rhode Island,do,do,$126.00,Wisconsin,0,126,1.0
+Miss Carrie C. Chamberlain,Wisconsin,do,Waupaca,$150.00,Wisconsin,0,150,1.0
+L. E. Spencer,Maine,do,Wausau,$720.00,Wisconsin,0,720,1.0
+Clemence G. Mayer,Pennsylvania,do,do,$80.00,Wisconsin,0,80,1.0
+Mrs. Hattie L. Walker,Wisconsin,do,Wautoma,$45.00,Wisconsin,0,45,1.0
+Miss Louise Van Waters,do,do,West Salem,$120.00,Wisconsin,0,120,1.0
+Miss Kate M. Gaal,do,do,Weyauwega,$90.00,Wisconsin,0,90,1.0
+W. H. Ewing,do,do,Whitewater,$300.00,Wisconsin,0,300,1.0
+Hattie A. Walton,do,do,Wonewoc,$76.00,Wisconsin,0,76,1.0
+F. E. Stockman,do,do,Woodville,$76.00,Wisconsin,0,76,1.0
+Joseph A. Breckons,Pennsylvania,Wyoming,Cheyenne City,$1380.00,Wyoming,0,1380,1.0
+Otto K. Snyder,Wyoming,do,do,$720.00,Wyoming,0,720,1.0
+Fred. Houghton,do,do,do,$240.00,Wyoming,0,240,1.0
+E. M. Bennett,New York,do,Rawlins,$290.00,Wyoming,0,290,1.0
+Mary A. Garrett,England,do,Rock Creek,$350.00,Wyoming,0,350,1.0
+William Bowen,Michigan,,Adrian, Mich,$600.00,"Michigan,0", Mich,1.0
+Charles H. Hauk,do,,do,$600.00,Michigan,0,600,1.0
+Charles M. Young,New York,,do,$600.00,Michigan,0,600,1.0
+James H. Whipple,do,,do,$600.00,Michigan,0,600,1.0
+Frank L. Butler,Ohio,Ohio,Akron, Ohio,$850.00,"Ohio,0", Ohio,1.0
+Harry C. Eichenlaub,do,do,do,$600.00,Ohio,0,600,1.0
+Patrick Finnegan,Ireland,do,do,$600.00,Ohio,0,600,1.0
+Arthur S. Limbert,Ohio,do,do,$850.00,Ohio,0,850,1.0
+Henry A. Fuertes,do,do,do,$850.00,Ohio,0,850,1.0
+George F. Pierce,do,do,do,$850.00,Ohio,0,850,1.0
+John W. Sabin,do,do,do,$850.00,Ohio,0,850,1.0
+James K. P. Somers,do,do,do,$850.00,Ohio,0,850,1.0
+Charles H. Steson,do,do,do,$850.00,Ohio,0,850,1.0
+William H. Armstrong,New Jersey,New York,Albany, N Y,$800.00,"New York,0", N Y,1.0
+James Duffey,New York,do,do,$600.00,New York,0,600,1.0
+Joseph F. Beck,do,do,do,$800.00,New York,0,800,1.0
+John J. Brucker,do,do,do,$800.00,New York,0,800,1.0
+William Crew,do,do,do,$1000.00,New York,0,1000,1.0
+James G. Curran,do,do,do,$800.00,New York,0,800,1.0
+Edward L. Cobb,do,do,do,$800.00,New York,0,800,1.0
+John B. Conway,do,do,do,$800.00,New York,0,800,1.0
+John E. Cranfield,do,do,do,$800.00,New York,0,800,1.0
+Frank Dandaraw,do,do,do,$1000.00,New York,0,1000,1.0
+Thomas F. Dunn,do,do,do,$1000.00,New York,0,1000,1.0
+George Flath,do,do,do,$800.00,New York,0,800,1.0
+Henry Hoffman, jr.,New York,do,do,$1000.00,"New York,0",do,1.0
+William S. Hockridge,do,do,do,$800.00,New York,0,800,1.0
+Joseph E. Hourigan,do,do,do,$1000.00,New York,0,1000,1.0
+Anthony W. Hane,do,do,do,$800.00,New York,0,800,1.0
+Thomas J. Lannon,do,do,do,$800.00,New York,0,800,1.0
+Martin J. Lawler,do,do,do,$800.00,New York,0,800,1.0
+John Morgan,England,do,do,$1000.00,New York,0,1000,1.0
+William J. McLaughlin,New York,do,do,$1000.00,New York,0,1000,1.0
+William B. Miller,do,do,do,$1000.00,New York,0,1000,1.0
+James A. Mullen,do,do,do,$800.00,New York,0,800,1.0
+Edward F. Murray,do,do,do,$800.00,New York,0,800,1.0
+Edward J. O'Hara,do,do,do,$800.00,New York,0,800,1.0
+Thomas F. O. Rourke,Ireland,do,do,$800.00,New York,0,800,1.0
