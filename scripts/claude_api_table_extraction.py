@@ -5,6 +5,7 @@ import pandas as pd
 import io
 import time
 import re
+import csv 
 from pdf2image import convert_from_path
 import tempfile
 import argparse
@@ -80,6 +81,56 @@ class TableExtractor:
         
         return cleaned_text
     
+    def _clean_salary_value(self, salary_str):
+        """
+        Clean and standardize salary values.
+        
+        Args:
+            salary_str: A string containing a salary value
+            
+        Returns:
+            A standardized salary value as an integer
+        """
+        if pd.isna(salary_str) or not salary_str:
+            return None
+        
+        # Convert to string
+        salary_str = str(salary_str)
+        
+        # Remove any thousand separators (commas)
+        salary_str = salary_str.replace(',', '')
+        
+        # Extract only digits and decimal points
+        digits_only = ''.join(c for c in salary_str if c.isdigit() or c == '.')
+        
+        # Try to convert to numeric
+        try:
+            # Handle different formats
+            if '.' in digits_only:
+                # If it looks like a decimal amount
+                salary_val = float(digits_only)
+                return int(salary_val)
+            else:
+                # If it's a whole number
+                return int(digits_only)
+        except:
+            # If conversion fails, return the original string
+            return salary_str
+        
+    def _split_csv_line(self, line: str) -> List[str]:
+        """
+        Split a CSV line properly handling quoted fields and commas within values.
+        
+        Args:
+            line: A CSV line
+            
+        Returns:
+            List of fields
+        """
+        # Use the csv module to properly split the line
+        reader = csv.reader([line])
+        return next(reader)
+    
     def _parse_csv_with_confidence(self, csv_text: str) -> Tuple[pd.DataFrame, float]:
         """
         Parse CSV text and assign a confidence score based on parsing success.
@@ -95,13 +146,14 @@ class TableExtractor:
         
         # Try parsing with standard CSV parser first
         try:
-            df = pd.read_csv(io.StringIO(cleaned_text))
+            df = pd.read_csv(io.StringIO(cleaned_text), quoting=csv.QUOTE_ALL)
             return df, 1.0  # High confidence if standard parsing works
         except Exception as e:
             # If standard parsing fails, try a more flexible approach
             try:
-                # Try parsing with the Python engine which is more flexible
-                df = pd.read_csv(io.StringIO(cleaned_text), sep=None, engine='python')
+                # Try with the Python engine and proper quoting
+                df = pd.read_csv(io.StringIO(cleaned_text), sep=None, engine='python', 
+                                quoting=csv.QUOTE_ALL, escapechar='\\')
                 return df, 0.8  # Good confidence but not perfect
             except Exception:
                 pass
@@ -113,14 +165,14 @@ class TableExtractor:
             return pd.DataFrame(), 0.0
         
         # Get the header
-        header = lines[0].split(',')
+        header = self._split_csv_line(lines[0])
         
         # Parse each line manually
         data = []
         row_confidences = []
         
         for line in lines[1:]:
-            fields = line.split(',')
+            fields = self._split_csv_line(line)
             
             # Calculate confidence for this row based on field count match
             field_count_confidence = min(len(fields) / len(header), 1.0)
@@ -149,7 +201,7 @@ class TableExtractor:
         return df, avg_confidence
     
     def extract_table_from_pdf_page(self, pdf_path: str, page_number: int, 
-                                    retry_count: int = 3, retry_delay: int = 2) -> Tuple[pd.DataFrame, float]:
+                            retry_count: int = 3, retry_delay: int = 2) -> Tuple[pd.DataFrame, float]:
         """
         Extract a table from a specific page of a PDF using Claude.
         
@@ -186,7 +238,21 @@ class TableExtractor:
                                 "content": [
                                     {
                                         "type": "text",
-                                        "text": "This image contains a table with postal clerk data. Extract all data from the table and provide it in CSV format. Include these columns: Name, Where born, Whence appointed, Post-office, Compensation per annum, State, Postmaster (1 for yes, 0 for no).\n\nImportant: For compensation values, combine any spaces between dollars and cents (e.g., '$100 00' should be '$10000'). Only respond with the raw CSV data, no explanations or markdown formatting."
+                                        "text": """This image contains a table with postal clerk data. Extract all data into CSV format with these columns: Name, Where born, Whence appointed, Post-office, Compensation per annum, State, Postmaster (1 for yes, 0 for no).
+
+                                                    Important formatting instructions:
+                                                        1. Keep suffixes like Jr., Sr., or III as part of the Name field - don't let these shift data into other columns
+                                                        2. For compensation values:
+                                                            - VERY IMPORTANT: Remove any commas from dollar amounts (e.g., '$1,000.00' should be '$1000.00')
+                                                            - Remove any spaces between dollars and cents and account for the decimal (e.g., '$100 00' should be '$100.00')
+                                                            - Pay special attention to monetary amounts, ensuring the correct number of zeros
+                                                            - Look carefully at each digit in salary amounts to avoid misreading
+                                                            - Standardize monetary values to a consistent format
+                                                        3. When a cell contains 'do', it means 'ditto' - repeating the value from the previous row in that column
+                                                        4. For entries with 'p.m.' in the compensation column, make sure you put 1 in the Postmaster column. Otherwise Postmaster is 0.
+                                                        5. If any field might contain a comma (especially in monetary values), ensure it's properly quoted
+
+                                                    Only respond with the raw CSV data, no explanations or markdown formatting."""
                                     },
                                     {
                                         "type": "image",
@@ -231,6 +297,10 @@ class TableExtractor:
             if best_df.empty:
                 raise Exception("Failed to extract any usable data after multiple attempts")
                 
+            # Post-process the data to clean up salaries and add a cleaned salary column
+            if 'Compensation per annum' in best_df.columns:
+                best_df['salary_clean'] = best_df['Compensation per annum'].apply(self._clean_salary_value)
+            
             return best_df, best_confidence
             
         finally:
