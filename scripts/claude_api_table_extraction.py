@@ -251,6 +251,7 @@ class TableExtractor:
                                                         3. When a cell contains 'do', it means 'ditto' - repeating the value from the previous row in that column
                                                         4. For entries with 'p.m.' in the compensation column, make sure you put 1 in the Postmaster column. Otherwise Postmaster is 0.
                                                         5. If any field might contain a comma (especially in monetary values), ensure it's properly quoted
+                                                        6. If on any given page a new table starts with a new table heading, ignore it and do not add the data
 
                                                     Only respond with the raw CSV data, no explanations or markdown formatting."""
                                     },
